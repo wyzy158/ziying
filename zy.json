@@ -1,0 +1,24 @@
+{
+  "urls": [
+  {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/cj.json",
+      "name": "影视线路"
+    },
+	 {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/%E7%9F%AD%E5%89%A7.json",
+      "name": "短剧线路"
+    },
+	 {
+      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/wd.json",
+      "name": "少儿频道"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "动漫频道"
+    },
+      {
+      "url": "http://tt.iitvba.com/bata/老年戏曲.json",
+      "name": "戏曲频道"
+    }
+  ]
+}
