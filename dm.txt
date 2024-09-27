@@ -13,22 +13,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./58动漫.js"
-  },
-   {
-        "key": "NT动漫",
-        "name": "NT动漫",
-        "type": 3,
-        "api": "./drpy2.min.js",
-        "ext": "./NT动漫.js"
-    },
-    {
-        "key": "奇米动漫",
-        "name": "奇米动漫",
-        "type": 3,
-        "api": "./drpy2.min.js",
-        "ext": "./奇米动漫.js"
-    }
-           
+  }  
     ],
 	
 	"parses": [
