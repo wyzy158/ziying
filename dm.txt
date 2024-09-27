@@ -1,5 +1,5 @@
 {
-  "spider": "./DM.jar",
+ "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "sites": [
