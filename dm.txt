@@ -1,8 +1,27 @@
 {
- "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
-  "wallpaper": "./bizhi.php",
+    "spider": "./meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
+	 "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "sites": [
+    {
+      "key": "rmdm",
+      "name": "日漫┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	  {
+      "key": "ntdm",
+      "name": "柠桐┃动漫",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=ntdm"
+    },
          {
             "key": "58动漫网",
             "name": "58┃动漫",
