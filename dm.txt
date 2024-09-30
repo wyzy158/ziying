@@ -1,10 +1,8 @@
 {
-   "spider": "./pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "homepage": "https://github.com/hjdhnx/hipy-server",
-  "homeLogo": "./img/logo500x200-1.png",
-  "sites": [
-    {
+   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+  "wallpaper": "./bizhi.php",
+   "sites": [
+     {
       "key": "56动漫",
       "name": "56动漫",
       "type": 3,
