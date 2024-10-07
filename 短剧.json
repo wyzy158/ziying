@@ -201,7 +201,7 @@
                 "分类": "短剧$6",
                 "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"
             },
-            "jar": "./jar/短剧tv.jar"
+            "jar": "./短剧tv.jar"
         },
  
 {
