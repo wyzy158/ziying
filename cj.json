@@ -2,18 +2,6 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
-
- "lives": [
-          {
-           "name":"观影视直播",
-           "type":0,
-           "url":"https://codeberg.org/fengxiangze123/gys/raw/branch/main/zyzb.txt",
-           "playerType":2,
-           "ua":"okhttp/3.15",
-           "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-           "logo":"https://epg.112114.eu.org/logo/{name}.png"
-        }
-  ],
   "sites": [
 {
   "key": "豆瓣推荐",
@@ -43,9 +31,28 @@
                 "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
             }
         },
-        {
-            "key": "优优影视",
-            "name": "优优┃蓝光",
+         {
+            "key": "海豚视频",
+            "name": "海豚┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片地区": "观影视制作",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "分类url": "https://www.htun.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#少儿$6"
+            }
+        },
+ {
+            "key": "影视界",
+            "name": "视界┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -58,23 +65,48 @@
                 "影片类型": "module-info-tag\">&&立即播放",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"
+                "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
             }
         },
-       {
-            "key": "小熊影视",
-            "name": "小熊┃蓝光",
+  {
+            "key": "豌豆影院",
+            "name": "豌豆┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "动作片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4#"
+                "影片地区": "观影视制作",
+                "影片年代": "年份: &&</p>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "类型: &&</p>",
+                "主演": "主演: &&</p>",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+                "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
             }
         },
+         {
+            "key": "猪猪影视",
+            "name": "猪猪┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.lyzccl.com/",
+                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "class=\"video-des\"&&</div>",
+                "线路标题": "data-toggle=\"tab\">&&</a>",
+                "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
+                "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
+            }
+        },
+
+      
        {
             "key": "Gofree",
             "name": "喵迅┃蓝光",
@@ -126,23 +158,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
-		  {
-            "key": "白雾影视",
-            "name": "白雾┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
-                "线路数组": "<span style=\"font-size:16px;&&</span>",
-                "线路标题": ">&&<",
-                "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
-                "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"
-            }
-        },
+		 
 		 {
             "key": "金漫TV",
             "name": "金漫┃蓝光",
@@ -163,25 +179,7 @@
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#短剧$25"
             }
         },
-		 {
-            "key": "剧迷TV",
-            "name": "剧迷┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "观影视制作",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
-            }
-        },
+		
  {
             "key": "一个G",
             "name": "逸哥┃蓝光",
