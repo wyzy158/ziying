@@ -1063,6 +1063,1063 @@
                 "分类url": "https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"
             }
         },
+
+
+        
+		
+		
+		{
+			"key": "xbpq_4kvm",
+			"name": "4k影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/4kys.json"
+		},
+		{
+			"key": "xbpq_白嫖者联盟",
+			"name": "嫖盟",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/白嫖者联盟.json"
+		},
+		
+		{
+			"key": "xbpq_高清剧场",
+			"name": "高清",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/高清剧场.json"
+		},
+		{
+			"key": "xbpq_金牌剧场",
+			"name": "金牌",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/金牌.json"
+		},
+		{
+			"key": "xbpq_鲨鱼",
+			"name": "鲨鱼",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/鲨鱼.json"
+		},
+ {
+      "key": "xbpq_优质资源库",
+      "name": "优质",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./json/优质资源库.json"
+    },
+		{
+			"key": "xbpq_美益达",
+			"name": "美益达",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/美益达.json"
+		},
+		{
+			"key": "xbpq_琪琪电影网",
+			"name": "琪琪",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/琪琪电影网.json"
+		},
+		{
+			"key": "xbpq_统一100",
+			"name": "统一",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/统一100.json"
+		},
+		{
+			"key": "xbpq_豌豆影院",
+			"name": "豌豆",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/豌豆影院.json"
+		},
+		{
+			"key": "xbpq_碟调网",
+			"name": "碟调",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/碟调网.json"
+		},
+		{
+			"key": "xbpq_美剧之家",
+			"name": "美剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/美剧之家.json"
+		},
+		{
+			"key": "xbpq_爱影视",
+			"name": "I影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/爱影视.json"
+		},
+		{
+			"key": "XBPQ_85K",
+			"name": "85K",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/85K.json"
+		},
+		{
+			"key": "xbpq_极速影视",
+			"name": "极速",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/极速影院.json"
+		},
+		{
+			"key": "88影院",
+			"name": "88影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/88影院.json"
+		},
+		{
+			"key": "网飞猫影视",
+			"name": "飞猫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/网飞猫影视.json"
+		},
+		{
+			"key": "xbpq_一品影院",
+			"name": "一品",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/一品影院.json"
+		},
+		{
+			"key": "xbpq_大鱼影视",
+			"name": "大鱼",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/大鱼影视.json"
+		},
+		{
+			"key": "xbpq_旋风",
+			"name": "旋风",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/旋风.json"
+		},
+		{
+			"key": "xbpq_播王",
+			"name": "播王",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/播王.json"
+		},
+		{
+			"key": "xbpq_天堂电影网",
+			"name": "天堂1",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/天堂电影网.json"
+		},
+		{
+			"key": "xbpq_电影天堂",
+			"name": "天堂2",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/电影天堂.json"
+		},
+		{
+			"key": "xbpq_可可影视",
+			"name": "可可",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/可可.json"
+		},
+		{
+			"key": "XBPQ_里里影院",
+			"name": "里里",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/里里影院.json"
+		},
+		{
+			"key": "XBPQ_auete",
+			"name": "奥特",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/奥特.json"
+		},
+		{
+			"key": "xbpq_来看点播",
+			"name": "来看",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/来看点播.json"
+		},
+		{
+			"key": "XBPQ_yingqu影趣",
+			"name": "影趣",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/yingqu影趣.json"
+		},
+		{
+			"key": "xbpq_电影兔",
+			"name": "影兔",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/影兔.json"
+		},
+		{
+			"key": "xbpq_全集网",
+			"name": "全集",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/全集网.json"
+		},
+		{
+			"key": "XBPQ_hdie影院",
+			"name": "蝴蝶",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/蝴蝶.json"
+		},
+		{
+			"key": "xbpq_爱碟影院",
+			"name": "爱碟",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/爱碟.json"
+		},
+		{
+			"key": "xbpq_看看屋",
+			"name": "看看屋",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/看看屋.json"
+		},
+		{
+			"key": "兄弟",
+			"name": "兄弟",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/兄弟.json"
+		},
+		{
+			"key": "xbpq_圣城酷云",
+			"name": "圣城",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/圣城SC1080.json"
+		},
+		{
+			"key": "xbpq_无忧wyys影视",
+			"name": "无忧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/无忧影视.json"
+		},
+		{
+			"key": "XBPQ_好乐影视",
+			"name": "好乐",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/好乐.json"
+		},
+		{
+			"key": "Xbpq_电影猎手",
+			"name": "猎手",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/猎手.json"
+		},
+		{
+			"key": "xbpq_09871乐享",
+			"name": "乐享",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/09871乐享.json"
+		},
+		{
+			"key": "xbpq_练气镜影视",
+			"name": "练气",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/练气镜影视.json"
+		},
+		{
+			"key": "XBPQ_kimivod",
+			"name": "KimiVod",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/KimiVod.json"
+		},
+		{
+			"key": "Xbpq_1080kkk影城",
+			"name": "1080K",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/1080kkk影城.json"
+		},
+		{
+			"key": "XBPQ_河狸影视",
+			"name": "河狸",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/河狸.json"
+		},
+		{
+			"key": "xbpq_欧库影视",
+			"name": "欧库",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/欧库.json"
+		},
+		{
+			"key": "xbpq_1个g",
+			"name": "壹季",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/壹季.json"
+		},
+		{
+			"key": "皮皮影视吧",
+			"name": "皮皮",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"ext": "./json/皮皮影视.json"
+		},
+		{
+			"key": "csp_XBPQ_美柏",
+			"name": "美柏",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/美柏.json"
+		},
+		{
+			"key": "xbpq_全年",
+			"name": "全年",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/全年.json"
+		},
+		{
+			"key": "XBPQ_映播",
+			"name": "映播",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"searchable": "1",
+			"ext": "./json/映播.json"
+		},
+		{
+			"key": "88影视",
+			"name": "88影视",
+			"type": 3,
+			"filterable": 1,
+			"api": "csp_XBPQ",
+			"ext": "./json/88影视.json"
+		},
+		
+		{
+			"key": "xbpq_影梦",
+			"name": "影梦",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/影梦.json"
+		},
+		{
+			"key": "csp_XBPQ_麦田",
+			"name": "麦田",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/麦田.json"
+		},
+		{
+			"key": "xbpq_魔法剧院",
+			"name": "魔法",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/魔法.json"
+		},
+		{
+			"key": "XBPQ_凌云",
+			"name": "凌云",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/凌云.json"
+		},
+		{
+			"key": "xbpq_1111tv",
+			"name": "硬要",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/1111tv.json"
+		},
+		{
+			"key": "csp_吃瓜影视3",
+			"name": "吃瓜",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/吃瓜.json"
+		},
+		{
+			"key": "xbpq_无极",
+			"name": "无极",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/无极.json"
+		},
+		{
+			"key": "作风",
+			"name": "作风",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/作风.json"
+		},
+		{
+			"key": "手机影院",
+			"name": "手机",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "1",
+			"ext": "./json/手机.json"
+		},
+		{
+			"key": "xbpq_kanmeiju",
+			"name": "美剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/kanmeiju.json"
+		},
+		{
+			"key": "毒舌电影",
+			"name": "毒舌",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/毒舌.json"
+		},
+		{
+			"key": "csp_XBPQ_柯南",
+			"name": "柯南",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/柯南.json"
+		},
+		{
+			"key": "XBPQ_雨见视频",
+			"name": "雨见",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/雨见.json"
+		},
+		{
+			"key": "wwgz旺旺",
+			"name": "旺旺",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/旺旺.json"
+		},
+		{
+			"key": "xbpq_看片狂人",
+			"name": "狂人",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/狂人.json"
+		},
+		{
+			"key": "xbpq_7Itv",
+			"name": "飘花",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/飘花.json"
+		},
+		{
+			"key": "xbpq_墨点",
+			"name": "墨点",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/墨点.json"
+		},
+		{
+			"key": "XBPQ_酷茶",
+			"name": "酷茶",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/酷茶.json"
+		},
+		{
+			"key": "XBPQ_片多多",
+			"name": "片多",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/片多.json"
+		},
+		{
+			"key": "xbpq_77看片",
+			"name": "77看片",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/77看片.json"
+		},
+		{
+			"key": "xbpq_西瓜视频",
+			"name": "西瓜",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/西瓜.json"
+		},
+		{
+			"key": "xbpq_牛逼新视觉",
+			"name": "牛逼",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": 2,
+			"playUrl": "https://t1.qlplayer.cyou/player/?url=",
+			"ext": "./json/牛逼新视觉.json"
+		},
+		{
+			"key": "xbpq_139影视",
+			"name": "139YS",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/139YS.json"
+		},
+		{
+			"key": "xbpq_蓝光影院",
+			"name": "蓝光",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/蓝光.json"
+		},
+		{
+			"key": "XBPQ_导航影视",
+			"name": "导航",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/导航.json"
+		},
+		{
+			"key": "xbpq_XMXONE影视资源",
+			"name": "MXONE",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/XMXONE影视资源.json"
+		},
+		{
+			"key": "XBPQ_爱上电影",
+			"name": "爱上",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/爱上电影.json"
+		},
+		{
+			"key": "xbpq_片刻影视",
+			"name": "片刻",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/片刻影视.json"
+		},
+		{
+			"key": "XBPQ_海豚（昔年）",
+			"name": "昔年",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/海豚.json"
+		},
+		{
+			"key": "18影视",
+			"name": "18YS",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/18YS.json"
+		},
+		{
+			"key": "csp_xb_ysgc",
+			"name": "工厂",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "./json/ysgc.json"
+		},
+		{
+			"key": "xbpq_厂长",
+			"name": "厂长",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"ext": "./json/厂长.json"
+		},
+		{
+			"key": "qimaoys",
+			"name": "七猫",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/七猫.json"
+		},
+		{
+			"key": "晨光电影",
+			"name": "晨光",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/晨光.json"
+		},
+		{
+			"key": "xbpq_VIP128电影",
+			"name": "VIP电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/VIP128电影.json"
+		},
+		{
+			"key": "xbpq_自由",
+			"name": "自由",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/自由.json"
+		},
+		{
+			"key": "XBPQ_1450电影",
+			"name": "1450",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/1450电影.json"
+		},
+		{
+			"key": "龟龟",
+			"name": "剧哥",
+			"type": 3,
+			"changeable": 1,
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/剧哥.json"
+		},
+		{
+			"key": "天龙高清",
+			"name": "天龙",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/天龙.json"
+		},
+		
+		{
+			"key": "B站影视xbpq",
+			"name": "B站",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/B站.json"
+		},
+		{
+			"key": "csp_五五",
+			"name": "五五",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/55.json"
+		},
+		{
+			"key": "私人xbpq",
+			"name": "私人",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/私人.json"
+		},
+		{
+			"key": "XBPQ_黑狐影院",
+			"name": "黑狐",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "2",
+			"api": "csp_XBPQ",
+			"ext": "./json/黑狐.json"
+		},
+		{
+			"key": "csp_Voflix",
+			"name": "Voflix",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/voflix.json"
+		},
+		{
+			"key": "月亮",
+			"name": "月亮",
+			"type": 3,
+			"playerType": 1,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"ext": "./json/月亮.json"
+		},
+		{
+			"key": "xbpq_肚子里",
+			"name": "肚子",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/肚子.json"
+		},
+		{
+			"key": "csp_XBPQ_六六",
+			"name": "六六",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/六六.json"
+		},
+		{
+			"key": "csp_XBPQ_奇异",
+			"name": "奇异",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/奇异.json"
+		},
+		{
+			"key": "bkyy",
+			"name": "布卡",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/布卡.json"
+		},
+		{
+			"key": "348影视",
+			"name": "348",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/348.json"
+		},
+		{
+			"key": "卫总影院",
+			"name": "卫总",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/卫总.json"
+		},
+		{
+			"key": "xb-zdhxh",
+			"name": "秋霞",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/秋霞.json"
+		},
+		{
+			"key": "js_耐菲",
+			"name": "鸭奈",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/鸭奈飞.js"
+		},
+		{
+			"key": "奈飞中文",
+			"name": "奈飞",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/nfzw.json"
+		},
+       {
+			"key": "xb-foxiys",
+			"name": "佛系",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "./json/佛系.json"
+		},
+		{
+			"key": "jxchyq",
+			"name": "VS影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/VS影院.json"
+		},
+		{
+			"key": "ntylbz永联",
+			"name": "永联",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/ntylbz永联.json"
+		},
+		{
+			"key": "tymlyy星辰",
+			"name": "66电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/tymlyy星辰.json"
+		},
+		{
+			"key": "好恐怖",
+			"name": "恐怖",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/恐怖.json"
+		},
+		{
+			"key": "csp_xBPQ_疯狗",
+			"name": "疯狗",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/fgys.json"
+		},
+		{
+			"key": "热播之家",
+			"name": "热播",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./json/热播.json"
+		},
+		{
+			"key": "七新影视",
+			"name": "七新",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/七新影视.json"
+		},
+		{
+			"key": "csp_盒子",
+			"name": "盒子",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/hezi.json"
+		},
+		{
+			"key": "csp_威士",
+			"name": "VSY",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/vsys.json"
+		},
+		{
+			"key": "WPXQ",
+			"name": "歪片",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "./json/歪片.json"
+		},
+		{
+			"key": "csp_胖虎",
+			"name": "胖虎",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/胖虎.json"
+		},
+		{
+			"key": "短视频sharenice",
+			"name": "短剧2",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "./json/短视频sharenice.json"
+		},
+		
+		
+		
+		
 	
 		{
             "key": "麦田影视",
