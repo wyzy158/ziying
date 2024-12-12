@@ -1166,7 +1166,7 @@
 		},
 		{
 			"key": "xbpq_爱影视",
-			"name": "I影视",
+			"name": "爱影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": "./json/爱影视.json"
