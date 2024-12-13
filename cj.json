@@ -2,28 +2,36 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
-    "lives": [
+      "lives": [
+        {
+            "name": "直播",
+            "type": 0,
+            "playerType": 1,
+            "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/zyzb.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date} ",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "直播1",
             "type": 0,
             "playerType": 1,
-            "url": "https://d.kstore.dev/download/12200/zyzb.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/zyzb.txt ",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date} ",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-		{
+        {
             "name": "直播2",
             "type": 0,
             "playerType": 1,
-            "url": "https://d.kstore.dev/download/12200/zb1.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/zb1.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date} ",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播3",
             "type": 0,
             "playerType": 1,
-            "url": "https://d.kstore.dev/download/12200/zb2.txt",
+            "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/zb2.txt ",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
