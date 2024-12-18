@@ -221,23 +221,7 @@
   "changeable":0,
   "ext":"./Bili动画.json"
   },
-
-
- {
-            "key": "58动漫网",
-            "name": "58┃动漫",
-            "type": 3,
-            "api": "./drpy2.min.js",
-			      "jar": "./pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./58动漫.js"
-  },
-
- 
-    {
+{
   "key":"资源",
   "name":"资源",
   "type": 3,
