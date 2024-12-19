@@ -47,6 +47,18 @@
   "quickSearch": 0,
   "filterable": 0
 },
+
+{
+"key":"采集之王",
+"name":"观影视采集",
+"type":3,
+"api":"https://tv.nxog.top/m//js/drpy2.min.js",
+"searchable":1,
+"quickSearch":1,
+"order_num":142,
+"ext":"https://tv.nxog.top/m//js/采集之王.js?type=url¶ms=https://tv.nxog.top/m//json/采集静态.json"
+},
+
 {
             "key": "海豚视频",
             "name": "海豚┃蓝光",
