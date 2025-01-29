@@ -2013,6 +2013,34 @@
 			"changeable": 1,
 			"ext": "./json/秋霞.json"
 		},
+    {
+            "key": "面包影视",
+            "name": "面包｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/面包影视.json"
+        },
+        {
+            "key": "永乐影视",
+            "name": "永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/永乐影视.json"
+        },
+        {
+            "key": "雪糕影视",
+            "name": "雪糕｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/雪糕影视.json"
+        },
+        {
+            "key": "流光影视",
+            "name": "流光｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/流光影视.json"
+        },
 		{
 			"key": "js_耐菲",
 			"name": "鸭奈",
