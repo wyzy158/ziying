@@ -35,14 +35,12 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-          "name": "IPV6",
-          "type": 0,
-          "playerType": 1,
-          "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-          "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+       {
+		    	"name": "稳定github直播",
+			    "urls": [
+				"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt"
+			]
+		}
        
     ],
   
