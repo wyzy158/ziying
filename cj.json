@@ -43,75 +43,8 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-        {
-			"name": "稳定github直播",
-			"urls": [
-				"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt"
-			]
-		},
-		{
-			"name": "拾光",
-			"url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt"
-		},
-		{
-			"name": "范明明",
-			"url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
-		},
-		{
-			"name": "Govin",
-			"url": "https://slink.ltd/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
-		},
-		{
-			"name": "大葱MyTV",
-			"url": "https://tv.iill.top/m3u/MyTV"
-		},
-		{
-			"name": "大葱Gather",
-			"url": "https://tv.iill.top/m3u/Gather"
-		},
-		{
-			"name": "大葱Live",
-			"url": "https://tv.iill.top/m3u/Live"
-		},
-		{
-			"name": "大葱Sport",
-			"url": "https://tv.iill.top/m3u/Sport"
-		},
-		{
-			"name": "天微",
-			"url": "https://7337.kstore.space/twkj/tvzb.txt"
-		},
-		{
-			"name": "开心",
-			"url": "http://kxrj.site:55/lib/kx2024.txt"
-		},
-		{
-			"name": "日后",
-			"url": "http://rihou.cc:567/gggg.nzk"
-		},
-		{
-			"name": "华数IPV6①",
-			"type": 0,
-			"url": "./lib/杭州华数.m3u",
-			"playerType": 1
-		},
-		{
-			"name": "华数IPV6②",
-			"type": 0,
-			"url": "./lib/华数2.m3u",
-			"playerType": 1,
-			"logo": "https://live.fanmingming.com/tv/{name}.png"
-		},
-		{
-			"name": "CAT-TXT(IPV6-p2p)",
-			"type": 0,
-			"playerType": 1,
-			"url": "http://home.jundie.top:81/Cat/tv/live.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png",
-			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-		}
+    }
+       
     ],
   
   "sites": [
