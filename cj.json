@@ -283,61 +283,9 @@
 
 
 
-{
-            "key": "海豚视频",
-            "name": "海豚┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "观影视制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.htun.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5#少儿$6"
-            }
-        },
-  {
-            "key": "豌豆影院",
-            "name": "豌豆┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "观影视制作",
-                "影片年代": "年份: &&</p>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "类型: &&</p>",
-                "主演": "主演: &&</p>",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
-                "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
-            }
-        },
-         {
-            "key": "猪猪影视",
-            "name": "猪猪┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.lyzccl.com/",
-                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "class=\"video-des\"&&</div>",
-                "线路标题": "data-toggle=\"tab\">&&</a>",
-                "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
-                "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
-            }
-        },
+
+ 
+       
  {
             "key": "好乐蓝光",
             "name": "好乐┃蓝光",
@@ -354,81 +302,8 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$18#动画片$20"
             }
         },
-{
-            "key": "工厂蓝光",
-            "name": "工厂┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
-                "分类url": "https://www.ysgctv.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-            }
-        },
-		 {
-            "key": "可乐影视",
-            "name": "可乐┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./dokilwss.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
-                "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
-            }
-        },
-         {
-            "key": "凯奇影视",
-            "name": "凯奇┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./dokilwss.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-                "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-                "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-                "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-            }
-        },
-       {
-            "key": "没事影院",
-            "name": "没事┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
-            }
-        },
-       {
-            "key": "在线电影吧",
-            "name": "文采┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./dokilwss.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
-            }
-        },
+
+      
 {
             "key": "宝片影视",
             "name": "宝片┃蓝光",
@@ -2626,7 +2501,7 @@
 },
 {
       "key": "Auete",
-      "name": "影视｜Auete",
+      "name": "影视┃Auete",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
