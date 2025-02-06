@@ -129,7 +129,7 @@
 			}
 		},
 		{
-			"key": "",
+			"key": "海纳",
 			"name": "海纳",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -167,6 +167,119 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$20||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空"
 			}
 		},
+    {"key":"mysp",
+		"name":"魅影视频",
+		"type":3,
+		"api":"csp_XBPQ",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":{
+    "作者": "观影视",
+    "站名": "魅影视频",
+    "编码": "UTF-8",
+    "请求头": "User-Agent$MOBILE_UA",
+    "主页url": "https://www.hangtong168.com",
+    "首页": "200",
+    "起始页": "1",
+    "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;mrcRA",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+    "数组": "默认--lazyload\"&&</li||搜索--lazyload\"&&</li",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "观影视+text\">&&<",
+    "链接": "href=\"&&\"",
+    "影片年代": "/search/-------------*.html\" target=\"_blank\">&&</a",
+    "影片地区": "/search/--*-----------.html\" target=\"_blank\">&&</a",
+    "影片类型": "/search/----*---------.html\" target=\"_blank\">&&</a",
+    "状态": "text-right\">&&<",
+    "导演": "导演：&&</p",
+    "主演": "主演：&&</p",
+    "简介": "请不要相信任何广告！！！祝您观影愉快！观影视为您介绍剧情👉-+og:description\" content=\"&&\"",
+    "线路数组": "panel-hd\">*<h&&/h",
+    "线路标题": ">&&<",
+    "播放数组": "<ul class=\"shoutu-playlist&&</ul",
+    "播放列表": "<li>&&</li",
+    "播放标题": ">&&</a",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "var player_*\"url\":\"&&\"",
+    "搜索url": "/search/{wd}----------{pg}---.html",
+    "搜索模式": "1",
+    "筛选": "1",
+    "类型": "喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22#网红短剧$34||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32"
+}
+},
+
+
+{"key":"xuanf",
+"name":"旋风影视",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":"1",
+"ext":{"请求头":"User-Agent$MOBILE_UA",
+"编码":"UTF-8",
+"副标题":"观影视+>&&</",
+"链接":"href=\"&&\"",
+"播放数组":"\"clips\":\\[&&\\],\"cnt\":[替换:\\[\">>表题#\",\">>题接#\"\\]>>接表]",
+"播放列表":"表&&表",
+"播放标题":"题&&题",
+"播放链接":"接&&接",
+"线路数组":"Name\":&&,",
+"线路标题":"\"&&\"",
+"多线二次截取":"headers\":\\[&&\\]",
+"多线数组":"{&&}",
+"多线链接":"https://miao101.com/video/+Vid\":\"&&\"+/+ID\":&&,+/1",
+"分类url":"https://miao101.com/tag/{cateId}/{catePg}",
+"分类":"动作片&喜剧片&爱情片&科幻片&恐怖片&犯罪片&动画片&剧情片&战争片&纪录片&国产剧&香港剧&韩国剧&欧美剧&台湾剧&日本剧&泰国剧&大陆综艺&日韩综艺&港台综艺&欧美综艺&国产动漫&港台动漫&欧美动漫&海外动漫",
+"分类值":"*"
+}
+},
+{"key":"BT4K影院",
+"name":"BT4K影院",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>",
+"简介":"class=\"hl-text-muted\">简介：</em>&&</li>",
+"线路数组":"alt=\"&&</a>",
+"线路标题":"观影视+</i>&nbsp;&&</a>",
+"分类数组":"<a&&</a>",
+"分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>",
+"分类ID":"href=\"/vodlist/&&.html\"",
+"分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"
+}
+},
+{"key":" 一起看",
+"name":"一起看",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+"分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+"分类":"电影&电视剧&综艺&动漫&短剧",
+"分类值":"1&2&3&4&30"
+}
+},
+{"key":"djyy",
+"name":"顶级影视",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+"主页url": "https://www.topmovie.cc/",    
+"简介": "module-info-introduction\">&&ⓒ顶级电影",   
+ "影片类型": "tag-link\">&&立即播放",   
+ "线路数组": "data-dropdown-value=&&</div>[排序:三网>>专线>>备用]",    
+ "线路标题": "<span>&&<+共+<small>&&+集[不包含:海外专线#备用-2#官方专线#官方#专线1#专线2#三网专线]",    
+ "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",    
+ "分类": "电影$1#剧集$2#综艺$3#记录$4#体育$24#短剧$26#动漫$28"
+ }
+ },
+
+
+
 
 
 
