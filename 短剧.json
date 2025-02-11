@@ -2,6 +2,66 @@
     "spider": "./dongchen.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
+        {
+      "key": "精选短剧",
+      "name": "精选｜短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+	  "jar": "./D1.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+ {
+            "key": "NUU短剧",
+            "name": "NUU短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/NUU短剧.json"
+        },
+		{
+            "key": "CCTV短剧",
+            "name": "CCTV短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/cctv短剧.json"
+        },
+		{
+            "key": "优影视",
+            "name": "优短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/优短剧.json"
+		},
+		 {
+            "key": "追剧网",
+            "name": "追剧短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/追剧短剧.json"
+        },
+		{
+            "key": "微云影视",
+            "name": "微云短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/微云短剧.json"
+        },
  
  
  
