@@ -34,13 +34,8 @@
             "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/zb2.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-       {
-		    	"name": "稳定github直播",
-			    "urls": [
-				"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt"
-			]
-		}
+        }
+       
        
     ],
   
