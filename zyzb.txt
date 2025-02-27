@@ -18,6 +18,9 @@ CCTV14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV15 音乐,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
 CCTV17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8#http://113.195.172.192:808/hls/114/index.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8#http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8#http://113.195.172.192:808/hls/112/index.m3u8
 
 
 央视高清,#genre#
