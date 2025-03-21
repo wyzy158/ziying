@@ -2212,6 +2212,58 @@
             "api": "csp_XBPQ",
             "ext": "./lib/流光影视.json"
         },
+        {
+			"key": "vip站帮影视",
+			"name": "Vip站帮",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 0,
+			"quickSearch": 1,
+			"playerType": "1",
+			"api": "csp_XBPQ",
+			"ext": "./json/Vip站帮影视.json"
+		},
+		{
+			"key": "火鸟影视",
+			"name": "火鸟",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/火鸟.json"
+		},
+		 {
+            "key": "狐狸君",
+            "name": "狐狸君｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/狐狸君.json"
+        },
+        {
+            "key": "修罗影视",
+            "name": "修罗｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/修罗影视.json"
+        },
+		 {
+            "key": "秀儿影视",
+            "name": "秀儿｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			      "searchable": 1,
+            "quickSearch": 1,
+			      "filterable": 1,
+            "ext": "./json/秀儿影视.json"
+        },
 		{
 			"key": "js_耐菲",
 			"name": "鸭奈",
