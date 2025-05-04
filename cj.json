@@ -1610,6 +1610,20 @@
 			"changeable": 1,
 			"ext": "./json/09871乐享.json"
 		},
+    {
+            "key": "巴蜀影视",
+            "name": "巴蜀｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/巴蜀影视.json"
+        },
+        {
+            "key": "随客影视",
+            "name": "随客｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/随客影视.json"
+        },
 		{
 			"key": "xbpq_练气镜影视",
 			"name": "练气",
