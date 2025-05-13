@@ -12,6 +12,16 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "✨cms短剧✨",
+      "name": "cms短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/cms短剧.json"
+    },
  {
             "key": "NUU短剧",
             "name": "NUU短剧",
