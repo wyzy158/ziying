@@ -2,15 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[
-  {
-      "key": "Bili2",
-      "name": "宝宝趣学",
-      "type": 3,
-      "api": "csp_Bili2",
-      "searchable": 0,
-      "ext": "./lib/video_data.json"
-    },
-   {
+ {
       "key": "儿童拼音",
       "name": "儿童拼音",
       "type": 3,
