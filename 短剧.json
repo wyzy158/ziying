@@ -2,7 +2,7 @@
     "spider": "./dongchen.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
-        {
+  {
       "key": "精选短剧",
       "name": "精选｜短剧",
       "type": 3,
@@ -12,67 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "✨cms短剧✨",
-      "name": "cms短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/cms短剧.json"
-    },
- {
-            "key": "NUU短剧",
-            "name": "NUU短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/NUU短剧.json"
-        },
-		{
-            "key": "CCTV短剧",
-            "name": "CCTV短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/cctv短剧.json"
-        },
-		{
-            "key": "优影视",
-            "name": "优短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/优短剧.json"
-		},
-		 {
-            "key": "追剧网",
-            "name": "追剧短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/追剧短剧.json"
-        },
-		{
-            "key": "微云影视",
-            "name": "微云短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/微云短剧.json"
-        },
- 
+	
  
  
  {     
@@ -101,130 +41,7 @@
 		  "短剧"   
 		  ]   
    },
-            
-     { 
-		     "key": "速博资源",
-			 "name": "速博短剧",
-			 "type": 1,
-			 "api": "https://subocaiji.com/api.php/provide/vod/",
-			 "playUrl": "", 
-			 "searchable": 1,
-			 "quickSearch": 1,
-			 "categories": [
-			 "短剧"
-			 ]
-		 },
-
-    
-		
-
-        {
-            "key": "胖虎",
-            "name": "胖虎短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-                "过滤词": "/cdn.physvod.com/#116.m3u8",
-                "影片地区": "备用有广！",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$7"
-            }
-        },
-     
-                {
-            "key": "金漫短剧",
-            "name": "金漫短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "观影视制作",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$25"
-          }
-        },
-		{
-            "key": "逸哥短剧",
-            "name": "逸哥短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "观影视制作",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$5"
-           }
-         },
 		 {
-            "key": "短剧天下",
-            "name": "短剧天下",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-			      "分类url": "https://duanjutt.tv/vodtype/{cateId}-{catePg}.html",
-                  "分类": "逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5#都市$20#现代言情$21#古装$22#古代言情$23#战神$24#神医$25#神豪$26#超能$27#萌宝$28#复仇$29#脑洞$30#赘婿$31#玄幻$32#热血$33#其他$34"
-		   }
-         },
-         
-
-    {
-      "key": "短剧屋",
-      "name": "短剧屋｜短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./短剧屋.json"
-    },
-     {
-            "key": "抖音短剧",
-            "name": "抖音短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/抖音短剧.json"
-        },
-        {
-            "key": "555短剧",
-            "name": "555短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/555短剧.json"
-        },
-        {
             "key": "唐人街影院",
             "name": "唐人街短剧",
             "type": 3,
@@ -235,403 +52,6 @@
             "ext": "./json/唐人街短剧.json"
         },
         {
-            "key": "天龙影院",
-            "name": "天龙短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/天龙短剧.json"
-        },
-        {
-            "key": "无敌短剧",
-            "name": "无敌短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/无敌短剧.json"
-        },
-        {
-            "key": "追剧网",
-            "name": "追剧短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/追剧短剧.json"
-        },
-        {
-            "key": "一起看",
-            "name": "一起看短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/一起看短剧.json"
-        },
-        {
-            "key": "丽宫短剧",
-            "name": "丽宫短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/丽宫短剧.json"
-        },
-        {
-            "key": "NUU短剧",
-            "name": "NUU短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/NUU短剧.json"
-        },
-        {
-            "key": "奈飞短剧",
-            "name": "奈飞短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奈飞短剧.json"
-        },
-        {
-            "key": "CCTV短剧",
-            "name": "CCTV短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/cctv短剧.json"
-        },
-        {
-            "key": "七味短剧",
-            "name": "七味短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/七味短剧.json"
-        },
-       
-        {
-            "key": "111影视",
-            "name": "111短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/111短剧.json"
-        },
-        {
-            "key": "米兔影视",
-            "name": "米兔短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/米兔短剧.json"
-        },
-        {
-            "key": "影趣",
-            "name": "影趣短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/影趣短剧.json"
-        },
-        {
-            "key": "纽约短剧",
-            "name": "纽约短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/纽约短剧.json"
-        },
-        {
-            "key": "量子影视",
-            "name": "量子短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/量子短剧.json"
-        },
-        {
-            "key": "映播短剧",
-            "name": "映播短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/映播短剧.json"
-        },
-       
-		  {
-            "key": "稀饭短剧",
-            "name": "稀饭短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/稀饭短剧.json"
-        },
-        {
-            "key": "影梦短剧",
-            "name": "影梦短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/影梦短剧.json"
-        },
-        {
-            "key": "猎手",
-            "name": "猎手短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/猎手短剧.json"
-        },
-        {
-            "key": "安迪短剧",
-            "name": "安迪短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/安迪短剧.json"
-        },
-        {
-            "key": "妖狐短剧",
-            "name": "妖狐短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/妖狐短剧.json"
-        },
-        {
-            "key": "PTT短剧",
-            "name": "PTT短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/PTT短剧.json"
-        },
-        {
-            "key": "理理短剧",
-            "name": "理理短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/理理短剧.json"
-        },
-        {
-            "key": "免费电影网",
-            "name": "免费短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/免费短剧.json"
-        },
-        {
-            "key": "飞飞短剧",
-            "name": "飞飞短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/飞飞短剧.json"
-        },
-        {
-            "key": "蚂蚁影库",
-            "name": "蚂蚁短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/蚂蚁短剧.json"
-        },
-        {
-            "key": "荔枝TV",
-            "name": "荔枝短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/荔枝短剧.json"
-        },
-        {
-            "key": "DJW",
-            "name": "短剧网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧网.json"
-        },
-        {
-            "key": "白嫖者联盟",
-            "name": "白嫖短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/白嫖者.json"
-        },
-        {
-            "key": "电视剧网",
-            "name": "电视剧网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电视剧网.json"
-        },
-        {
-            "key": "老王影院",
-            "name": "老王短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/老王短剧.json"
-        },
-        {
-            "key": "胖虎影院",
-            "name": "胖虎短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/胖虎短剧.json"
-        },
-        {
-            "key": "奇优影院",
-            "name": "奇优短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奇优短剧.json"
-        },
-        {
-            "key": "大熊短剧",
-            "name": "大熊短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/大熊短剧.json"
-        },
-        {
-            "key": "毒舌短剧",
-            "name": "毒舌短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/毒舌短剧.json"
-        },
-        {
-            "key": "微云影视",
-            "name": "微云短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/微云短剧.json"
-        },
-        {
-            "key": "一个短剧",
-            "name": "一个短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/一个短剧.json"
-        },
-        {
-            "key": "短剧大全",
-            "name": "短剧大全",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧大全.json"
-        },
-
-		
- 
-{
-  "key":"短剧网",
-  "name":"短剧网",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{"简介":"观影视祝您观影愉快",
-  "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
-  "分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"
-    }
-  },
-  {
-  "key":"短剧吧",
-  "name":"短剧吧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{"简介":"观影视祝您观影愉快",
-  "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-  "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"
- }
-},
-
- {
       "key": "晨光电影",
       "name": "晨光短剧",
       "type": 3,
@@ -661,47 +81,8 @@
                 "分类": "短剧$31"
             }
         },
-		 {
-            "key": "全集影视",
-            "name": "全集短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://quan.cn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$39"
-            }
-        },
-               {
-            "key": "没事短剧",
-            "name": "没事短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$duanju"
-            }
-        },
-		{
-            "key": "星辰短剧",
-            "name": "星辰短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片类型": "观影视制作",
-                "播放标题": ">&&<[不包含:1080P]",
-                "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "短剧$duanju"
-            }
-        },
+		
+              
 		{
            "key": "红狐狸短剧",
            "name": "红狐狸短剧",
@@ -713,19 +94,7 @@
 		   }
        },
 		  
- {
-      "key": "keke",
-      "name": "可可短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}--{catePg}.html",
-        "分类": "短剧$6"
-      }
-    },
+ 
 	 {
       "key": "345影视",
       "name": "345短剧",
@@ -746,41 +115,9 @@
         "分类": "短剧$9"
       }
     },
-{
-    "key": "网飞猫",
-    "name": "网飞猫",
-     "type": 3,
-     "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-      "ext": { "请求头": "User-Agent$MOBILE_UA","分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
- "分类": "短剧$6",
- 			"主页url": "https://www.ncat3.com:51111",
-"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]" , 
-"搜索url": "https://www.ncat3.com:51111/search?k={wd}" 
-}
-},
- {
-  "key":"99影视",
-  "name":"99短剧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{"简介":"剧情介绍: +col-pd text-collapse content\">&&</div>",
-  "分类url":"http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"短剧$25"
-  }
-},
-{
-  "key":"干饭影视",
-  "name":"干饭短剧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{"简介":"观影视祝您观影愉快",
-  "分类url":"https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"短剧$20"
-  }
-},
+
+
+
 {
   "key":"一起影视",
   "name":"一起短剧",
@@ -790,32 +127,8 @@
   "分类":"短剧$30"
   }
 }, 
-{
-      "key": "短剧天堂",
-      "name": "短剧天堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "分类url:https://duanjutt.tv/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:逆袭$1#甜宠$2#虐恋$3#穿越$4#都市$20#现代言情$21#古装$22#古代言情$23#战神$24#神医$25#神豪$26#超能$27#萌宝$2#复仇$29#脑洞$30#赘婿$31#玄幻$2#热血$33#其他$34"
-    },
-   {
-      "key": "酷茶短剧",
-      "name": "酷茶短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "酷茶影视",
-        "主页url": "https://www.kcys.top/",
-        "搜索url": "https://www.kcys.top/search/index.html?keyword={wd}",
-        "分类url": "https://www.kcys.top/vod/{catePg}/{cateId}/0/0/0/0/0/0/index.html",
-        "分类": "短剧$39"
-      }
-    },
+
+  
    
 		{
             "key": "宝片影视",
@@ -830,19 +143,7 @@
                 "分类": "短剧$22"
             }
         },
-		 {
-            "key": "饭团影视",
-            "name": "饭团短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.xyy6680.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$duanju"
-            }
-        },
+		
 		 {
             "key": "可视影院",
             "name": "可视短剧",
@@ -856,22 +157,31 @@
                 "分类": "网络短剧$skit"
             }
         },
+      
         {
-            "key": "聚合短剧",
-            "name": "聚合短剧",
+            "key": "文采短剧",
+            "name": "文采短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "影片地区": "观影视制作",
-                "影片年代": "<p class=\"module-info-item-content&&</p>",
-                "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
-                "分类": "短剧$3"
+                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+                "分类": "短剧$duanju"
             }
         },
-       
+
+{"key":"xbpq_djuw","name":"短剧网2","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类url":"https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html","分类":" 短剧$5"}},
+{"key":"xbpq_dzdj","name":"蝶众短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$6","分类url":"https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
+{"key":"xbpq_lddj","name":"兰岛短剧","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":1,"ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$20","分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}},
+{"key":"xbpq_mfdj","name":"免费短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.idsp.cc/type/{cateId}-{catePg}.html","分类":"精品短剧$1#短剧大全$2#快手短剧$3#西瓜视频$4","搜索url":"https://www.idsp.cc/search.php?page={pg}&searchword={wd}&searchtype="}},
+{"key":"xbpq_ysc","name":"影视村","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"http://www.yingshicun.com/?m=home&c=Lists&a=index&tid={cateId}&year={year}&ZXljbXM=1&page={catePg}","分类":"抖音短剧$2#快手短剧$3#海外短剧$4","搜索url":"http://www.yingshicun.com/search.html?keywords={wd}&method=1&page={pg}"}},
+{"key":"xbpq_55dj","name":"五五短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","分类":"短剧$1","搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}},
+{"key":"xbpq_jzdj","name":"九洲短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",   "分类":"短剧$5","搜索url":"https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}},
+
             
 
 
@@ -886,18 +196,121 @@
             "filterable": 1
         },
 
-{
-           "key": "无忧短剧",
-           "name": "无忧短剧",
-           "type": 3,
-           "api": "csp_XBPQ",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "ext": {"分类": "古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#其他$39",
-                "分类url": "http://5uduanju.com/vodtype/{cateId}.html"
-            }
-    }
+     
+         
+        
+       
+        {
+            "key": "CCTV短剧",
+            "name": "CCTV短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/cctv短剧.json"
+        },
+       
+     
+       
+        {
+            "key": "✨PTT短剧✨",
+            "name": "PTT短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/PTT短剧.json"
+        },
+        {
+            "key": "✨一起看✨",
+            "name": "一起看短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/一起看短剧.json"
+        },
+      
+        {
+            "key": "✨天龙影院✨",
+            "name": "天龙短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/天龙短剧.json"
+        },
+       
+        {
+            "key": "✨七味短剧✨",
+            "name": "七味短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七味短剧.json"
+        },
+       
+      
+        {
+            "key": "✨老王影院✨",
+            "name": "老王短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/老王短剧.json"
+        },
+      
+        {
+            "key": "✨奇优影院✨",
+            "name": "奇优短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇优短剧.json"
+        },
+       
+        {
+            "key": "✨毒舌短剧✨",
+            "name": "毒舌短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/毒舌短剧.json"
+        },
+        {
+            "key": "✨微云影视✨",
+            "name": "微云短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/微云短剧.json"
+        },
+     
+        {
+            "key": "✨短剧大全✨",
+            "name": "短剧大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧大全.json"
+        }
+  
 
     ]
 }
