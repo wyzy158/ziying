@@ -12,6 +12,51 @@
       "quickSearch": 0,
       "filterable": 0
     },
+     {
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/河马短剧.json"
+        },
+         {
+            "key": "奈飞短剧",
+            "name": "奈飞短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.naifei.wiki/",
+                "数组": "class=\"stui-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-right=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.naifei.wiki/vodtype/{cateId}-{catePg}.html",
+                "分类": "短剧$5",
+                "简介": "观影视提示：视频中广告勿信!"
+            }
+        },
+        {
+            "key": "88影院",
+            "name": "88短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m.libracarbon.com/",
+                "数组": "class=\"ewave-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-right\">&&</",
+                "链接": "href=\"&&\"",
+                "分类url": "https://m.libracarbon.com/vodshow/{cateId}-{class}--{area}-{lang}----{catePg}---{year}.html",
+                "分类": "短剧$31"
+            }
+        },
 	
  
  
