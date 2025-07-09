@@ -141,6 +141,10 @@ CHC影迷电影,http://www.douzhicloud.site:35455/mgtv/952383261.m3u8#http://113
 发现之旅,http://www.douzhicloud.site:35455/mgtv/624878970.m3u8
 咪咕24小时体育台,http://www.douzhicloud.site:35455/mgtv/654102378.m3u8
 江苏影视频道,http://www.douzhicloud.site:35455/mgtv/626064697.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+神乐华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
+神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+小鬼华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
 CETV-1,http://www.douzhicloud.site:35455/nptv/cetv1.m3u8#http://www.douzhicloud.site:35455/mgtv/923287154.m3u8
 CETV-2,http://www.douzhicloud.site:35455/mgtv/923287211.m3u8
 CETV-4,http://www.douzhicloud.site:35455/mgtv/923287339.m3u8
