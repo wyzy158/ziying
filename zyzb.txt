@@ -17,6 +17,11 @@ CCTV14,http://39.135.133.173/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225
 CCTV15,http://39.134.64.87:6610/PLTV/88888888/224/3221226476/index.m3u8?IASHttpSessionId=#http://39.134.64.87:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpSessionId=#http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8#http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=#http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8#http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8#http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=#http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8#http://111.43.126.240:9003/hls/30/index.m3u8
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
+CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8#https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
