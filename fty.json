@@ -3,8 +3,8 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆",
-      "name": "修复厂长【神秘的哥哥们】",
+      "key": "豆瓣",
+      "name": "豆瓣首页",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -13,24 +13,8 @@
       "changeable": 0
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/",
-        "danMu": "弹"
-      }
-    },
-    {
       "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
+      "name": "新片预告",
       "type": 3,
       "api": "csp_YGPGuard",
       "searchable": 0,
