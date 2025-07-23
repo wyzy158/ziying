@@ -95,9 +95,12 @@ CCTV-4 中文国际 美洲,http://www.douzhicloud.site:35455/mgtv/608807416.m3u8
 CCTV-第一剧场,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
 CCTV-风云剧场,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
 CCTV-怀旧剧场,http://www.douzhicloud.site:35455/nptv/hjjc.m3u8
-CHC家庭影院,http://www.douzhicloud.site:35455/mgtv/644368373.m3u8#http://113.195.172.192:808/hls/113/index.m3u8
-CHC动作电影,http://www.douzhicloud.site:35455/mgtv/644368714.m3u8#http://113.195.172.192:808/hls/114/index.m3u8
-CHC影迷电影,http://www.douzhicloud.site:35455/mgtv/952383261.m3u8#http://113.195.172.192:808/hls/112/index.m3u8
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8#https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv#https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.m3u8#https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9#https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv
+CHC高清电影,http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380764b172c9/1.m3u8?m3u8_level=2
+
+
+
 湖南卫视,http://www.douzhicloud.site:35455/nptv/hunan.m3u8
 浙江卫视,http://www.douzhicloud.site:35455/nptv/zhejiang.m3u8
 江苏卫视,http://www.douzhicloud.site:35455/mgtv/623899368.m3u8#http://www.douzhicloud.site:35455/nptv/jiangsu.m3u8
