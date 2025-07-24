@@ -2,29 +2,7 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
-      "lives": [
-         {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 1,
-            "timeout": 10
-        },
-        {
-            "name": "iptv",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        }
-       
-       
-       
-       
-    ],
-  
-  "sites": [
+   "sites": [
 {
   "key": "豆瓣推荐",
   "name": "观影视精选",
