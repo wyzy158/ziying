@@ -5,16 +5,8 @@
       "name": "观影视线路1"
     },
 	{
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/cj.json",
-      "name": "观影视线路2"
-    },
-    {
-      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/cj.json",
-      "name": "观影视线路3"
-    },
-	{
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/cj.json",
-      "name": "观影视线路4"
+      "name": "观影视线路2"
     },
 	 {
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/%E7%9F%AD%E5%89%A7.json",
