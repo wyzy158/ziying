@@ -17,15 +17,11 @@ CCTV14少儿,http://110.177.144.14:9003/hls/15/index.m3u8
 CCTV15音乐,http://110.177.144.14:9003/hls/16/index.m3u8
 CCTV16奥林匹克,http://110.177.144.14:9003/hls/17/index.m3u8
 CCTV17农业农村,http://110.177.144.14:9003/hls/18/index.m3u8
-CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8#https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8#http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv#http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv#http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
+CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8#http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv#http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv#http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://guyue0227.eicp.net:35455/mgtv/644368714.m3u8#http://183.239.236.91:8088/hls/121/index.m3u8#http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv
 CHC家庭影院,http://guyue0227.eicp.net:35455/mgtv/644368373.m3u8#http://183.239.236.91:8088/hls/120/index.m3u8
-CHC影迷电影,http://guyue0227.eicp.net:35455/mgtv/952383261.m3u8#http://183.239.236.91:8088/hls/122/index.m3u8#http://183.239.236.91:8088/hls/92/index.m3u8
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
-淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
-黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
 卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
@@ -60,7 +56,3 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 天津卫视,http://112.123.243.37:50085/tsfile/live/0128_1.m3u8
-央视付费频道,#genre#
-央视台球,http://sh.lnott.top:880/dx82.m3u8
-怀旧剧场-NPTV,http://guyue0227.eicp.net:35455/nptv/hjjc.m3u8
-CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
