@@ -1,91 +1,698 @@
 {
-    "spider": "./dongchen.jar",
+   "spider": "https://gitee.com/wgq332/tvt/raw/master/fantaiying/duanjuspider.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
-  {
+        {
       "key": "精选短剧",
-      "name": "精选｜短剧",
+      "name": "精选短剧",
       "type": 3,
       "api": "csp_AppXY",
-	  "jar": "./D1.jar",
+	  "jar": "./b95a0b60d850244f03393261ddda4415.jar;md5;b95a0b60d850244f03393261ddda4415",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
-     {
-            "key": "河马短剧",
-            "name": "河马短剧",
+	{
+		"key": " fqdj",
+		"name": "️番茄短剧",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ua": "okhttp/3.15",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext":"https://gitee.com/gyjune/xbpq/raw/main/lib/hmdj.json"
+		 }, 
+		{
+            "key": "短剧屋",
+            "name": "短剧屋短剧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/河马短剧.json"
+            "ext": "./lib/短剧屋.json"
         },
          {
+            "key": "锦鲤短剧",
+            "name": "锦鲤短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "剧王短剧",
+            "name": "剧王短剧",
+            "type": 3,
+            "api": "./py/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		 {
+            "key": "短剧大全",
+            "name": "短剧大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.yingshidaquantv.com/index.php/ajax/data?mid=1&tid=36",
+                "二次截取": "list\":\\[&&\\][替换:\"vod_id>>组头\"vod_id#\"vod_year>>组尾\"vod_year]",
+                "数组": "组头&&组尾",
+                "标题": "vod_name\":\"&&\"",
+                "图片": "vod_pic\":\"&&\"",
+                "副标题": "vod_remarks\":\"&&\"",
+                "链接": "/vod/+vod_id\":&&,+.html",
+                "线路数组": "\\#ewave-playlist&&</ul>",
+                "线路标题": "✨观影视推荐✨+>&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "简介": "✨观影视为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</div>",
+                "分类url": "/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=30",
+                "分类": "重生民国$37&穿越年代$38&现代言情$39&反转爽文$40&女恋总裁$41&闪婚离婚$42&都市脑洞$43&古装仙侠$44"
+            }
+        },
+         {
+            "key": "csp_XBPQ_起看",
+            "name": "起看短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m.yncmfs.com/",
+                "数组": "class=\"module-item-pic\"&&</div>",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "播放数组": "class=\"scroll-content\"&&</div>",
+                "播放列表": "<a&&a>[不包含:дрр滈凊]",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</",
+                "线路数组": "class=\"module-tab-item&&</div>",
+                "线路标题": ".:影视:.+<span>&&</span>",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://m.yncmfs.com/vssysw/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "短剧$31"
+            }
+        },
+		 {
+            "key": "csp_XBPQ_魅影",
+            "name": "魅影短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "二次截取": "class=\"shoutu-vodlist&&</ul>",
+                "数组": "class=\"col8&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": ".:影视:.+text\">&&</p>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"shoutu-playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ".:影视:.+>&&</a>",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.hangtong168.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "网红短剧$34",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32空||空"
+            }
+        },
+		 {
+            "key": "csp_XBPQ_大象2",
+            "name": "大象短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://slzc.cn/",
+                "数组": "class=\"hl-item-thumb hl-lazy\"&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "remarks\">&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"hl-plays-list&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</",
+                "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
+                "线路标题": ".:影视:.+alt=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://slzc.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "短剧$36",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$12||日剧$26#海外剧$27#国产剧$13#港台剧$14#韩剧$15#美剧$16||空||空||空"
+            }
+        },
+		 {
+            "key": "csp_XBPQ_七七",
+            "name": "七味短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "防走丢": "https://www.qwmkv.com/",
+                "主页url": "https://www.pkmp4.xyz/",
+                "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+                "数组": "<li>&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"player\"&&</ul>",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&</",
+                "线路数组": "<option&&option>",
+                "线路标题": ".:影视:.+>&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "短剧$30"
+            }
+        },
+		 {
+            "key": "dnvods影视",
+            "name": "多瑙短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.dnvods.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$60"
+            }
+        },
+		{
+            "key": "csp_XBPQ_老王影视",
+            "name": "老王短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "简介": "+&&</span>",
+                "主页url": "https://www.laowang.co/",
+                "播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
+                "搜索url": "https://laowang.co/s.html?wd={wd}",
+                "分类url": "https://www.laowang.co/vs/{cateId}--------{catePg}---{year}.html",
+                "分类": "短剧$5"
+            }
+        },
+	 {
+            "key": "kkk",
+            "name": "akb短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "图片代理": "0",
+                "主页url": "https://www.akb.cc",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://www.akb.cc/type-{cateId}-{catePg}/",
+                "分类": "短剧$duanju",
+                "二次截取": "",
+                "数组": "video-img lazyload\"&&</div></div>",
+                "标题": "🔥+title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "mr-xs-0\">&&</span>",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</li>",
+                "影片地区": "地区：&&</li>",
+                "影片类型": "类型：&&</li>",
+                "状态": "状态：&&</li>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "为您剧情介绍🔥+entry-content clearfix\">&&</div>",
+                "线路二次截取": "<ul class=\"swiper-wrapper\">&&</ul>",
+                "线路数组": "swiper-slide ewave-tab&&</li>",
+                "线路标题": "🔥+>&&</a>",
+                "播放二次截取": "",
+                "播放数组": "playlist-content&&</ul>",
+                "播放列表": "<li&&/li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "解析": "",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8",
+                "过滤词": "",
+                "跳转播放链接": "<iframe*src=\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "https://www.akb.cc/search{wd}/page/{pg}/",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "lazyload\"&&</div></div>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "",
+                "搜索链接": "href=\"&&\"",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "",
+                "剧情值": "*",
+                "地区": "",
+                "地区值": "*",
+                "年份": "",
+                "年份值": "*",
+                "语言": "",
+                "语言值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },
+		{
+            "key": "天狗追剧",
+            "name": "天狗短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "图片代理": "0",
+                "直接播放": "0",
+                "播放请求头": "",
+                "主页url": "http://www.jlspyy.com.cn",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "http://www.jlspyy.com.cn/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "短剧$duanju",
+                "二次截取": "class=\"evg6xn stui-vodlist clearfix&&</ul>",
+                "数组": "thumb lazyload&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "pic-text text-right\">&&</span></a>",
+                "链接": "href=\"&&\"",
+                "线路数组": "class=*nore text-muted pull-right\"&&</div>",
+                "线路标题": "title\">&&</h3>",
+                "播放数组": "playlist clearfix&&</ul>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "类型": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#犯罪片$fanzuipian#动画片$donghuapian#伦理片$lunlipian国产剧$guochanju#香港剧$gangju#韩国剧$hanju#欧美剧$oumeiju#台湾剧$taiwanju#泰剧$taiju#日本剧$riju#其它剧$haiwaiju空空空"
+            }
+        },
+		{
+      "key": "幻彩优质",
+      "name": "幻彩短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "幻彩",
+        "站名": "幻彩优质",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "编码": "UTF-8",
+        "图片代理": "0",
+        "主页url": "http://www.dgshijsbj.com",
+        "搜索url": "/search/{wd}----------{pg}---.html",
+        "数组": "class=\"col8&&</li>",
+        "链接": "href=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "+text\">&&<",
+        "线路数组": "<h3>&&</h3>",
+        "线路标题": "幻彩+>&&<",
+        "播放数组": "class=\"shoutu-playlist&&</ul>",
+        "播放标题": "+>&&</a>",
+        "简介": "请勿相信视频中的广告⚠️+<div>更新：*</div>&&</div></div>",
+        "导演": "",
+        "主演": "",
+        "首页": "20",
+        "起始页": "1",
+        "直接播放": "0",
+        "嗅探词": ".mp4#.m3u8",
+        "分类url": "/show/{cateId}--------{catePg}---{year}.html;;mrcd0",
+        "分类": "短剧",
+        "分类值": "36"
+      }
+    },
+	 {
+            "key": "假茶杯狐",
+            "name": "茶杯短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.xuzhoucsw.com/",
+                "数组": "<li&&li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "playlist clearfix&&ul>",
+                "播放列表": "<li&&li>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</a>",
+                "线路数组": "<h3&&h3>",
+                "线路标题": ">&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "简介": "style=\"display: none;\">&&</span>",
+                "搜索url": "https://www.xuzhoucsw.com/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://www.xuzhoucsw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{lang}---{catePg}---{year}.html",
+                "分类": "短剧$37",
+                "类型": "动作电影$6#喜剧电影$7#爱情电影$8#科幻电影$9#恐怖电影$10#剧情电影$11#战争电影$12#纪录电影$20#4K电影$21#香港电影$22||国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$23#泰国剧$24#欧美剧$25#海外剧$26||大陆综艺$27#港台综艺$28#日韩综艺$29#欧美综艺$30||国产动漫$31#日韩动漫$32#港台动漫$35#欧美动漫$33#海外动漫$38||空||空||空"
+            }
+        },
+		{
+            "key": "真鹏影院",
+            "name": "真鹏短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.hzptec.com",
+                "二次截取": "",
+                "数组": "fed-lazy&&</li>",
+                "标题": "fed-list-title*>&&</a>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-center\"&&<",
+                "链接": "href=\"&&\"",
+                "简介": "》讲述了:&&</p>",
+                "播放数组": "clearfix list&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&<",
+                "线路二次截取": "",
+                "线路数组": "<span&&/span>",
+                "线路标题": "<img*>&&<",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索模式": "1",
+                "搜索url": "https://www.hzptec.com/search.php?page={pg}&searchword={wd}&searchtype=",
+                "搜索数组": "fed-lazy&&</li>",
+                "搜索标题": "fed-list-title*>&&</a>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "text-center\">&&<",
+                "搜索链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.hzptec.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+                "分类": "短剧$48",
+                "筛选": "1",
+                "类型": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#惊悚片$32#悬疑片$33#视频$34#高分$35#正片$47#新片$57#影片$58||国产剧$13#港剧$14#美剧$15#韩剧$16#日剧$25#台剧$28#泰剧$29#大陆剧$36#海外剧$37#新剧$56#热剧$59||精选$26#内地$38#日韩$39#港台$40#欧美$41||樱花$27#电影$31#国产$42#日韩$43#欧美$44#港台$45#风车$46#新番$60#热番$61||女频剧$49#反转剧$50#穿越剧$51#古装剧$52#都市剧$53#脑洞剧$54#爽文剧$55",
+                "地区": "大陆&香港&台湾&日本&韩国&欧美&泰国&其他",
+                "地区值": "*",
+                "年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&more",
+                "年份值": "*",
+                "排序": "按时间&按人气&按评分",
+                "排序值": "time&hit&commend"
+            }
+        },
+		{
+            "key": "乐播影视",
+            "name": "乐播短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://m.le05.com/",
+                "数组": "<li>&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "title\"&&</label>",
+                "链接": "href=\"&&\"",
+                "状态": "更新：&&</p",
+                "导演": "导演：&&</p",
+                "主演": "主演：&&</p",
+                "简介": "<p>&&</p >",
+                "线路数组": "<span&&</span>",
+                "线路标题": "<a>&&</a>",
+                "播放数组": "plau-ul-list\"&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&</",
+                "播放链接": "href=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "http://m.le05.com/vodsearch/{wd}----------{pg}---.html",
+                "搜索数组": "<li>&&</li>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "name\"&&</label>",
+                "搜索链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "http://m.le05.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}.html",
+                "分类": "短剧$5"
+            }
+        },
+		 {
+            "key": "纽约影视",
+            "name": "纽约短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "图片": "data-src=\"&&\"",
+                "分类url": "https://www.nycvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$50"
+            }
+        },
+		 {
+            "key": "看片影视",
+            "name": "狂人短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "图片": "data-src=\"&&\"",
+              "播放数组": "class=\"uk-margin-small\">&&</div>",
+                "分类url": "https://www.kpkuang.sbs/vodshow/1-------------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$37"
+            }
+        },
+		{
+            "key": "雪梨影视",
+            "name": "雪梨短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.7z5.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$5"
+            }
+        },
+		 {
+            "key": "sm影视",
+            "name": "神马短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "播放组数": "module-blocklist&&</div>",
+                "分类url": "https://www.jskji.com/sh/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$20"
+            }
+        },
+		 {
+      "key": "xbpq_高清剧场",
+      "name": "高清短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.ikanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "分类": "网络短剧$skit",
+        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+        "过滤词": "/hls/#php"
+      }
+    },
+	{
+      "key": "iysdq",
+      "name": "影院短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iysdq.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$5"
+      }
+    },
+	 {
+            "key": "沙雕圈影视",
+            "name": "沙雕短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://shadiao8.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$4"
+            }
+        },
+		{
+            "key": "华人影视",
+            "name": "华人短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+                "分类url": "https://www.wangfei.la/vod-show-/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "短剧$25"
+            }
+        },
+	{
+            "key": "✨电影100✨",
+            "name": "电影100短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/电影100短剧.json"
+        },
+		{
+            "key": "✨短剧网✨",
+            "name": "短剧网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧网.json"
+        },
+              {"key": "旺旺采集资源",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "https://api.wwzy.tv/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+    {
             "key": "奈飞短剧",
             "name": "奈飞短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.naifei.wiki/",
-                "数组": "class=\"stui-vodlist__box\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-right=\"&&\"",
-                "链接": "href=\"&&\"",
                 "分类url": "https://www.naifei.wiki/vodtype/{cateId}-{catePg}.html",
-                "分类": "短剧$5",
-                "简介": "观影视提示：视频中广告勿信!"
+                "分类": "短剧$5"
             }
         },
-        {
-            "key": "88影院",
-            "name": "88短剧",
+	{"key":" 一起看",
+"name":"一起看短剧",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{
+"分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
+"分类":"短剧30"
+}
+},
+{
+  "key":"一起影视",
+  "name":"一起短剧",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"分类url":"http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d",
+  "分类":"短剧$30"
+  }
+},
+{"key":"djyy",
+"name":"顶级短剧",
+"type":3,
+"api":"csp_XBPQ",
+"ext": {  "主页url": "https://www.topmovie.cc/", 
+ "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",    
+ "分类": "短剧$26"
+ }
+ },
+ {
+      "key": "剧集",
+      "name": "剧集短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.aijujitv.cc/list/{cateId}--------{catePg}---{year}.html",
+        "分类": "短剧$9"
+      }
+    },
+   {
+            "key": "量子短剧",
+            "name": "量子短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://m.libracarbon.com/",
-                "数组": "class=\"ewave-vodlist__box\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-right\">&&</",
-                "链接": "href=\"&&\"",
-                "分类url": "https://m.libracarbon.com/vodshow/{cateId}-{class}--{area}-{lang}----{catePg}---{year}.html",
-                "分类": "短剧$31"
-            }
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/量子短剧.json"
         },
-	
- 
- 
- {     
-      "key": "jisuzydj",   
-	  "name": "极速短剧",      
-	  "type": 1,    
-	  "api": " https://jszyapi.com/api.php/provide/vod ",       
-	  "searchable": 1,   
-	  "quickSearch": 1,   
-	  "filterable": 1,  
-	  "categories": [        
-	  "短剧"   
-	  ]   
- },
-    
-    
-    {      
-		  "key": "haohuaziyuandj",   
-		  "name": "豪华短剧",      
-		  "type": 1,    
-		  "api":  "   https://hhzyapi.com/api.php/provide/vod/?ac=videolistt   ",       
-		  "searchable": 1,   
-		  "quickSearch": 1,   
-		  "filterable": 1,  
-		  "categories": [       
-		  "短剧"   
-		  ]   
-   },
+		{
+            "key": "飞飞短剧",
+            "name": "飞飞短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/飞飞短剧.json"
+        },
 		 {
             "key": "唐人街影院",
             "name": "唐人街短剧",
@@ -96,99 +703,6 @@
             "filterable": 1,
             "ext": "./json/唐人街短剧.json"
         },
-        {
-      "key": "晨光电影",
-      "name": "晨光短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "剧情介绍: +white-space: initial;\">&&</div>",
-        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
-        "图片": "data-original=\"&&\"",
-        "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
-        "副标题": "fed-text-white fed-text-center\">&&</span>",
-        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
-        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-        "分类": "短剧$duanju"
-      }
-    },
-	 {
-            "key": " 百姓 ",
-            "name": "农民短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "观影视特别提醒您请勿相信影片中的广告，以免上当受骗+剧情介绍：&&</p >",
-                "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
-                "分类": "短剧$31"
-            }
-        },
-		
-              
-		{
-           "key": "红狐狸短剧",
-           "name": "红狐狸短剧",
-           "type": 3,   
-           "api": "csp_XBPQ",
-           "ext": {"简介":"+line-height: 20px;\">&&</div>",
-           "分类url": "https://honghuli.com/fenlei/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-           "分类": "短剧$35"
-		   }
-       },
-		  
- 
-	 {
-      "key": "345影视",
-      "name": "345短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "分类url:http://www.hnyhly.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:短剧$377"
-    },
-	{
-      "key": "剧集",
-      "name": "剧集短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {"搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
-      "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
-        "分类": "短剧$9"
-      }
-    },
-
-
-
-{
-  "key":"一起影视",
-  "name":"一起短剧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{"分类url":"http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d",
-  "分类":"短剧$30"
-  }
-}, 
-
-  
-   
-		{
-            "key": "宝片影视",
-            "name": "宝片短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "短剧$22"
-            }
-        },
-		
 		 {
             "key": "可视影院",
             "name": "可视短剧",
@@ -198,40 +712,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.ketv.cc/s/movie-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "网络短剧$skit"
-            }
-        },
-      
-        {
-            "key": "文采短剧",
-            "name": "文采短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "短剧$duanju"
-            }
-        },
-
-{"key":"xbpq_djuw","name":"短剧网2","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类url":"https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html","分类":" 短剧$5"}},
-{"key":"xbpq_dzdj","name":"蝶众短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$6","分类url":"https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
-{"key":"xbpq_lddj","name":"兰岛短剧","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":1,"ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$20","分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}},
-{"key":"xbpq_mfdj","name":"免费短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.idsp.cc/type/{cateId}-{catePg}.html","分类":"精品短剧$1#短剧大全$2#快手短剧$3#西瓜视频$4","搜索url":"https://www.idsp.cc/search.php?page={pg}&searchword={wd}&searchtype="}},
-{"key":"xbpq_ysc","name":"影视村","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"http://www.yingshicun.com/?m=home&c=Lists&a=index&tid={cateId}&year={year}&ZXljbXM=1&page={catePg}","分类":"抖音短剧$2#快手短剧$3#海外短剧$4","搜索url":"http://www.yingshicun.com/search.html?keywords={wd}&method=1&page={pg}"}},
-{"key":"xbpq_55dj","name":"五五短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","分类":"短剧$1","搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}},
-{"key":"xbpq_jzdj","name":"九洲短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":0,"ext":{"分类url":"https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",   "分类":"短剧$5","搜索url":"https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}},
-
-            
-
-
-        
-   {
+                "分类url": "https://www.ketv.cc/sBPQ","searchable":0,"quickSearch":0,"changeable":1,"ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$20","分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
+              }  },
+     {
             "key": "csp_无尽",
             "name": "无尽短剧",
             "type": 1,
@@ -240,11 +723,10 @@
             "quickSearch": 0,
             "filterable": 1
         },
+{"key":"xbpq_djuw","name":"短剧网2","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类url":"https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html","分类":" 短剧$5"}},
+{"key":"xbpq_dzdj","name":"蝶众短剧","type":3,"api":"csp_XBPQ","ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$6","分类url":"https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}},
+{"key":"xbpq_lddj","name":"兰岛短剧","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"changeable":1,"ext":{"简介":"观影视祝您观影愉快","分类":" 短剧$20","分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}},
 
-     
-         
-        
-       
         {
             "key": "CCTV短剧",
             "name": "CCTV短剧",
@@ -254,19 +736,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/cctv短剧.json"
-        },
-       
-     
-       
-        {
-            "key": "✨PTT短剧✨",
-            "name": "PTT短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/PTT短剧.json"
         },
         {
             "key": "✨一起看✨",
@@ -278,7 +747,6 @@
             "filterable": 1,
             "ext": "./json/一起看短剧.json"
         },
-      
         {
             "key": "✨天龙影院✨",
             "name": "天龙短剧",
@@ -289,22 +757,9 @@
             "filterable": 1,
             "ext": "./json/天龙短剧.json"
         },
-       
-        {
-            "key": "✨七味短剧✨",
-            "name": "七味短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/七味短剧.json"
-        },
-       
-      
         {
             "key": "✨老王影院✨",
-            "name": "老王短剧",
+            "name": "老王短剧1",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -312,19 +767,7 @@
             "filterable": 1,
             "ext": "./json/老王短剧.json"
         },
-      
-        {
-            "key": "✨奇优影院✨",
-            "name": "奇优短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奇优短剧.json"
-        },
-       
-        {
+      {
             "key": "✨毒舌短剧✨",
             "name": "毒舌短剧",
             "type": 3,
@@ -333,29 +776,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/毒舌短剧.json"
-        },
-        {
-            "key": "✨微云影视✨",
-            "name": "微云短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/微云短剧.json"
-        },
-     
-        {
-            "key": "✨短剧大全✨",
-            "name": "短剧大全",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧大全.json"
         }
-  
-
     ]
 }
