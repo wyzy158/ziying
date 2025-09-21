@@ -2651,7 +2651,7 @@
   "type":3,
   "api":"csp_XBPQ",
   "ext":{"分类url":"http://www.wuyevod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"电影$1#剧集$2#综艺$3#动漫$4#午夜$5"
+  "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$5"
   }
 }
  ],
