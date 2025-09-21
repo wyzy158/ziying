@@ -14,7 +14,7 @@
 },
   {
             "key": "猪猪影视",
-            "name": "猪猪┃蓝光",
+            "name": "猪猪蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -29,37 +29,11 @@
                 "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
             }
         },
-       {
-            "key": "在线电影吧",
-            "name": "文采┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
-            }
-        },
-{
-            "key": "宝片影视",
-            "name": "宝片┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
-            }
-        },
+      
+
 		{
             "key": "雨见视频",
-            "name": "雨见┃蓝光",
+            "name": "雨见蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -131,7 +105,7 @@
     },
 		{
 			"key": "feikuai",
-			"name": "飞快",
+			"name": "飞快影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -144,7 +118,7 @@
 		},
 		{
 			"key": "全能影视",
-			"name": "全能",
+			"name": "全能影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"filterable": 1,
@@ -156,26 +130,10 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$11#剧情片$12#动画片$34#歌舞片$20#历史片$21#谍战片$22国产剧$13#香港剧$14#欧美剧$15#日本剧$16#海外剧$23#台湾剧$24#韩国剧$25#泰国剧$26#灾难片$27#奇幻片$28#冒险片$29#犯罪片$30#惊悚片$31#传记片$32#悬疑片$33空空空"
 			}
 		},
-	    {
-      "key": "可可影视PQ",
-      "name": "月亮┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden",
-        "简介": "观影视友情提醒🔺勿信广告，避免受骗🔺+id=\"cText\">&&</a>",
-        "线路数组": "channelname swiper-slide\">&&</a>",
-        "线路标题": "观影视💠+&nbsp;&&<[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]"
-      }
-    },
+	    
      {
       "key": "剧集",
-      "name": "剧集┃影视",
+      "name": "剧集影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -184,38 +142,7 @@
         "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
       }
     },
-         {
-            "key": "电影先生",
-            "name": "电影先生┃高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "观影视制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
-                "分类": "国产剧$guochan#香港剧$gangju#台湾剧$taiju#韩国剧$hanju#日本剧$riju#欧美剧$oumei#海外剧$haiwai#动作片$action#喜剧片$xiju#爱情片$romance#科幻片$science#恐怖片$horror#剧情片$feature#战争片$war#动画片$cartoon#纪录片$jilupian#国产动漫$gcdm#日本动漫$rbdm#欧美动漫$omdm#海外动漫$hwdm#内地综艺$ndzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy"
-            }
-        },
-{
-            "key": "哩咕TV",
-            "name": "哩咕┃高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.ligutv.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#短剧$5"
-            }
- },
+
 {
       "key": "看片狂人",
       "name": "看片狂人",
@@ -267,7 +194,7 @@
 	},
 		 {
             "key": "唐人",
-            "name": "唐人┃蓝光",
+            "name": "唐人蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -280,7 +207,7 @@
         },
         {
             "key": "热播之家",
-            "name": "热播┃影视",
+            "name": "热播影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -293,7 +220,7 @@
         },
         {
             "key": "全集影视",
-            "name": "全集┃影视",
+            "name": "全集影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -304,20 +231,10 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$39"
             }
         },
-  {
-  "key":"七爱秒播",
-  "name":"七爱秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"分类url":"https://www.7itv.com/vodshow/{cateId}--{by}------{catePg}---.html"
-  }
- },
+  
 	{
-		"key": "可视影院",
-            "name": "可视┃影院",
+		        "key": "可视影院",
+            "name": "可视影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -691,7 +608,7 @@
         },
 		{
             "key": "MTYY",
-            "name": "MTYY",
+            "name": "MTYY影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 2,
@@ -768,46 +685,7 @@
                 "分类值": "dianying&lianxuju&duanju&zongyi&dongman&tiyu"
             }
         },
-		{
-            "key": "ling",
-            "name": "飞快影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "作者": "",
-                "站名": "📽️本资源来源于网络🚓侵权请联系删除",
-                "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
-                "编码": "UTF-8",
-                "图片代理": "0",
-                "主页url": "https://feikuai.tv",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "数组": "<a&&</div></div></a>",
-                "链接": "href=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "▶️+module-item-note\">&&<",
-                "线路二次截取": "class=\"module-tab-items-box&&</div></div>",
-                "线路数组": "class=\"module-tab-item&&</small>",
-                "线路标题": "📽️👉+<span>&&</span>",
-                "播放数组": "class=\"module-play-list-content&&</div>",
-                "播放标题": "👉+>&&</span>",
-                "简介": "🎉为您介绍剧情📢本资源来源于网络🚓侵权请联系删除👉+introduction-content\"><p>&&</p>",
-                "导演": "",
-                "主演": "",
-                "首页": "20",
-                "起始页": "1",
-                "直接播放": "0",
-                "嗅探词": ".mp4#.m3u8",
-                "分类url": "/vodshow/{cateId}--------{catePg}---{year}.html;;mrcd0",
-                "分类": "电影🌠&剧集🌠&综艺🌠&动漫🌠",
-                "分类值": "1&2&3&4"
-            }
-        },
-		 {
+	 {
             "key": "kkk",
             "name": "akb影视",
             "type": 3,
@@ -1249,9 +1127,7 @@
                 "分类": "电影$1#剧集$2#动漫$4#短剧$5"
             }
         },
-		 
-        
-		{
+		 {
             "key": "68影视",
             "name": "68蓝光",
             "type": 3,
@@ -1551,7 +1427,7 @@
     },
 		{
             "key": "麦田影视",
-            "name": "麦田┃影视",
+            "name": "麦田影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1561,7 +1437,7 @@
        },
        {
             "key": "落霞湾",
-            "name": "落霞┃影视",
+            "name": "落霞影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1571,7 +1447,7 @@
         },
 		{
             "key": "百万影视",
-            "name": "百万┃影视",
+            "name": "百万影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1581,7 +1457,7 @@
         },
 		 {
             "key": "鲨鱼影院",
-            "name": "鲨鱼┃影视",
+            "name": "鲨鱼影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1591,7 +1467,7 @@
         },
         {
             "key": "如云电影",
-            "name": "如云┃影视",
+            "name": "如云影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1601,7 +1477,7 @@
         },
         {
       "key": "ggys",
-      "name": "光棍┃影视",
+      "name": "光棍影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1622,7 +1498,7 @@
 },
 		{
             "key": "兄弟影视",
-            "name": "兄弟┃影视",
+            "name": "兄弟影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1642,7 +1518,7 @@
     },
 {
       "key": "Auete",
-      "name": "影视｜Auete",
+      "name": "Auete影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1652,7 +1528,7 @@
     },
 		 {
             "key": "全民视界",
-            "name": "全民┃影视",
+            "name": "全民影视",
             "type": 1,
             "api": "http://www.cmov.cn/api.php/provide/vod/",
             "searchable": 1,
@@ -1720,7 +1596,7 @@
     },
     {
 		  "key":"红牛资源",
-		  "name":"红牛",
+		  "name":"红牛资源",
 		  "type":1,
 		  "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 		  "searchable":1,
@@ -1729,7 +1605,7 @@
 	    },
  {
             "key": "北川影视",
-            "name": "北川",
+            "name": "北川影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1739,7 +1615,7 @@
         },
         {
             "key": "千梦影视",
-            "name": "千梦",
+            "name": "千梦影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1749,7 +1625,7 @@
         },
          {
             "key": "奴娜影视",
-            "name": "奴娜",
+            "name": "奴娜影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1849,7 +1725,7 @@
     },
 {
   "key":"文才",
-  "name":"文才",
+  "name":"文才影视",
   "type":3,
   "api":"csp_XBPQ",
   "ext":{"分类":"短剧&恐怖片&动作片&科幻片&战争片&国产剧&喜剧片&爱情片&综艺&欧美剧&港台剧&日韩剧"
@@ -1888,7 +1764,7 @@
 },
 {
   "key":"五月蓝光",
-  "name":"五月",
+  "name":"五月影视",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -1939,7 +1815,7 @@
     },
     {
       "key": "黑木耳资源",
-      "name": "木耳",
+      "name": "木耳资源",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -2445,7 +2321,7 @@
         },
         {
       "key": "360",
-      "name": "秒播┃采集",
+      "name": "秒播采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
