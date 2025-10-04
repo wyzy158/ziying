@@ -42,14 +42,7 @@
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
         },
-       {
-            "key": "采集之王",
-            "name": "采集合集",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"
-        },
-  {
+      {
             "key": "猪猪影视",
             "name": "猪猪蓝光",
             "type": 3,
