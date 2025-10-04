@@ -14,7 +14,7 @@
 },
 {
             "key": "天翼影视",
-            "name": "天翼｜影视",
+            "name": "天翼影视",
             "type": 1,
             "api": "http://7.qqqtv.top/api.php/provide/vod/",
             "searchable": 1,
@@ -28,45 +28,21 @@
                 "动漫"
             ]
         },
-        {
-            "key": "猎手影视",
-            "name": "猎手｜影视",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   {
+       {
             "key": "面包影视",
-            "name": "面包｜影视",
+            "name": "面包影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"
         },
         {
             "key": "永乐影视",
-            "name": "永乐｜影视",
+            "name": "永乐影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
         },
-        {
-            "key": "三九影视",
-            "name": "三九｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/SJYS.json"
-        },
-        {
-            "key": "剧圈圈",
-            "name": "剧圈｜影视",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/JQQ.js"
-        },
- {
+       {
             "key": "采集之王",
             "name": "采集合集",
             "type": 3,
