@@ -263,10 +263,12 @@ CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
 广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 🎬电影频道,#genre#
-CHC动作电影,http://117.141.162.238:8181/tsfile/live/1121_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://117.141.162.238:8181/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://117.141.162.238:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
+CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC影迷电影,http://117.141.162.238:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 📡卫视频道,#genre#
 东南卫视,http://101.74.31.102:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.74.31.105:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
