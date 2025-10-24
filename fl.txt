@@ -1,4 +1,5 @@
-{
+{ "spider": "./fl.jar",
+    "wallpaper": "https://img.qovv.cn/2024/04/28/662e5b8749c16.jpg",
     
 "sites":[
 {"key":"乐播资源",
