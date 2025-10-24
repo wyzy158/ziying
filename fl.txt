@@ -1,18 +1,11 @@
-{ "spider": "./fl.jar",
+
+{
+    "spider": "./spider.jar",
     "wallpaper": "https://img.qovv.cn/2024/04/28/662e5b8749c16.jpg",
-    
-"sites":[
-{"key":"乐播资源",
-"name":"乐播资源",
-"type": 0,
-"api":"https://lbapi9.com/api.php/provide/vod/at/xml",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-     {
+  "sites": [
+        {
             "key": "丝袜资源",
-            "name": "丝袜┃资源",
+            "name": "丝袜资源",
             "type": 1,
             "api": "https://siwazyw.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -34,192 +27,73 @@
                 "AV解说"
             ]
         },
-    {
-            "key": "橘猫资源",
-            "name": "橘猫资源",
+        {
+            "key": "奶香香资源",
+            "name": "奶香香资源",
             "type": 1,
-            "api": "https://to.to-long.com/api.php/provide/vod/?ac=list",
+            "api": "https://naixxzy.com/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1,
             "categories": [
-                "制服黑丝",
-                "国产情色",
-                "欧美性爱",
-                "中文字幕",
-                "强奸乱伦",
-                "少女萝莉",
-                "巨乳美乳",
-                "变态调教",
-                "熟女人妻",
-                "日本无码",
-                "卡通动画",
-                "三级伦理",
                 "国产自拍",
-                "重口色情",
-                "人兽性交"
-            ]
-        },
-		 {
-            "key": "草瘤资源",
-            "name": "草瘤资源",
-            "type": 1,
-            "api": "https://caoliuzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "亚洲无码",
-                "亚洲有码",
-                "欧美情色",
+                "主播诱惑",
+                "探花约炮",
+                "偷拍偷窥",
+                "网曝吃瓜",
+                "抖音短片",
+                "传媒剧情",
+                "日韩主播",
+                "日韩无码",
                 "中文字幕",
-                "动漫卡通",
-                "美女主播",
-                "人妻熟女",
-                "强奸乱伦",
-                "三级伦理",
-                "国产传媒",
-                "国产乱伦",
-                "网曝门事件",
-                "绿帽淫妻",
                 "AV解说",
-                "国产探花"
+                "换脸明星",
+                "强奸乱伦",
+                "女优明星",
+                "欧美激情",
+                "重口激情",
+                "三级伦理",
+                "剧情动漫",
+                "SM调教",
+                "女同性恋",
+                "VR视角"
             ]
         },
-		
-		 
-		 {
-            "key": "特色资源",
-            "name": "特色┃资源",
+        {
+            "key": "美少女",
+            "name": "美少女资源",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "*淫水机资源",
+            "name": "淫水机资源",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-		 {
+        {
             "key": "白嫖资源",
-            "name": "白嫖┃资源",
+            "name": "白嫖资源",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1
         },
         {
-            "key": "玉兔专场",
-            "name": "玉兔采集",
-            "type": 1,
-            "api": "https://py.nxog.eu.org/https://apiyutu.com/api.php/provide/vod/",
-            "playUrl": "",
+            "key": "大地资源",
+            "name": "大地资源",
+            "type": 0,
+            "api": "https://dadiapi.com/api.php",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "精品推荐",
-                "国产精品",
-                "主播秀色",
-                "日本有码",
-                "日本无码",
-                "中文字幕",
-                "童颜巨乳",
-                "性感人妻",
-                "强奸乱伦",
-                "欧美情色",
-                "童真萝莉",
-                "三级伦理",
-                "卡通动漫",
-                "丝袜OL",
-                "口爆颜射",
-                "自拍偷拍",
-                "日本片商",
-                "Cosplay",
-                "素人自拍",
-                "台湾色情",
-                "韩国自拍",
-                "性感港姐",
-                "东南亚情色",
-                "凌辱束缚",
-                "剧情介绍",
-                "多P 3P",
-                "91系列",
-                "网红系列",
-                "野外系列",
-                "女仆系列",
-                "学生中出",
-                "性感旗袍",
-                "兽耳作品",
-                "瑜伽裤",
-                "骚货护士",
-                "及膝袜",
-                "网曝系列",
-                "麻豆传媒",
-                "女同人妖",
-                "恋腿癖"
-            ]
-        },
-	
+            "quickSearch": 1
+        }
+    ],
 
-	{"key":"pwd_袜子",
-	"name":"蜜蜂资源",
-	"type":0,
-	"api":"https://www.msnii.com/api/xml.php",
-	"searchable":1,
-	"quickSearch":0
-	},
-	
-
-		 {
-            "key": "csp_XYBQ",
-            "name": "比卡资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "./hl.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./比卡比卡.json"
-        },
-		{
-      "key": "XMVideo",
-      "name": "熊猫资源",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-	  "jar": "./182.jar"
-    },
-		
-		
-
-         
-		  {
-            "key": "8006", 
-            "name": "奶香香", 
-            "type": 1, 
-            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list", 
-            "playUrl": "https://nxbfvod.com/?url=", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
-       
-		 {
-            "key": "8014", 
-            "name": "鲨鱼资源", 
-            "type": 1, 
-            "api": "https://shayuzy.com/api.php/provide/vod/?ac=list", 
-            "playUrl": "https://shayujx.com/?url=", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
-		
-
-{"key":"美少女资源","name":"美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"香奶儿资源","name":"香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1}
-
-
-
-],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
