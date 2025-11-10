@@ -339,6 +339,7 @@ CCTV16,http://163.142.186.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&
 影视频道,#genre#
 3D影院,http://ygbh.site/php/bfgd.php?id=298
 东森洋片,http://51.89.166.17:3002/index.php?id=ettvwestern 
+东森电影,http://free.cnlive.club/channel/n5502f4/index.m3u8?q=1760217407316 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8?hls_ctx=qc47fbb0
 周星驰,http://175.16.228.152:5003/live1587.m3u8?token=7375646f3b88d4686a322d9c83fc94b3fbb1dca6&z=1f4e 
 周星驰,http://175.16.231.209:5003/live1587.m3u8?token=7375646f215a703265c85f02d9c69624bcacbb24&z=1f4e 
@@ -346,13 +347,18 @@ CCTV16,http://163.142.186.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&
 好莱坞电影台,http://cnlive.org/channel/117d8eeb/index.m3u8
 好莱坞电影台,http://cnlive.org/channel/n2db95de5/index.m3u8 
 恐怖电影,https://yylunbo.ottiptv.cc/yy/24066336
-末日系列电影, https://yylunbo.ottiptv.cc/yy/1354889019
+末日系列电影,https://yylunbo.ottiptv.cc/yy/1354889019
+电影战争片,http://al.hls.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.m3u8?wsSecret=a5c697610dc828b740956e3534be7f9f&wsTime=69128d7e&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2025111001&seqid=2862268903780&uid=1099531752768&uuid=8262123826&Cf=cfss.cc 
+电影超异能,http://hs.hls.huya.com/src/1099531752777-1099531752777-86436221126967296-2199063629010-10057-A-0-1.m3u8?wsSecret=e43e61f449cf3c3619517623fa3e264e&wsTime=69128af2&ctype=tars_mp&fs=bgct&t=102&ver=1&sv=2025111001&seqid=2862268250966&uid=1099531752777&uuid=7609301273&Cf=cfss.cc 
 纬来电影,http://212.192.12.163:8081/channel/581b458b/index.m3u8
+纬来电影,http://212.192.12.163:8081/channel/581b458b/index.m3u8 
 经典电影重温,https://yylunbo.ottiptv.cc/yy/1382793140
 美亚电影台,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 香港院线大片,https://yylunbo.ottiptv.cc/yy/1354936242
-湖南电视剧,http://119.39.68.104:5003/live1020.m3u8?token=7375646f884f2e23883954ba0662ece1b37258a8&z=1f9a 
-湖南电影,http://119.39.68.104:5003/live1019.m3u8?token=7375646f884f2e23883954ba0662ece1b37258a8&z=1f9a
+高分港剧合集, https://yylunbo.ottiptv.cc/yy/1382735542
+湖南电影,http://119.39.68.83:5003/live1019.m3u8?token=7375646fe643000659d5feef9d73bf77bf7273f9&z=1f9a
+湖南电视剧,http://119.39.68.83:5003/live1020.m3u8?token=7375646fe643000659d5feef9d73bf77bf7273f9&z=1f9a
+海豚影视,http://183.164.63.156:5000/rtp/238.1.79.34:4384
 电影频道,https://stream1.freetv.fun/6c6be98ed03e027451aff1995f0f75c86a54b1fa36ef1368ccee3ad9bef2b1bb.m3u8
 电影频道,https://stream1.freetv.fun/10de74f91dd169c8bd0cb2aff7a68b2fa319fe4d4ea58d0e37f04ec603896bf6.ctv
 电影频道,https://stream1.freetv.fun/52ed518ded3a5709aa6e47f85f39d52db99bf7ce3aafd576e830b8ce206d43d0.m3u8
@@ -364,3 +370,25 @@ CCTV16,http://163.142.186.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&
 电影频道,https://stream1.freetv.fun/dca84d7029c0adf54a5cb4bf4e77dc649db484aebb1a3cf8ef380894e285e375.m3u8
 电影频道,https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.m3u8
 电影频道,https://stream1.freetv.fun/ef1d34cb2b8292ae8c4d4e32605609cfd12c3baec8dc0a29a1c3316117cfdc41.m3u8
+央视付费频道,#genre#
+CCTV世界地理,http://183.164.63.156:5000/rtp/238.1.79.60:4616 
+CCTV兵器科技,http://183.164.63.156:5000/rtp/238.1.79.56:4584 
+CCTV央视台球,http://183.164.63.156:5000/rtp/238.1.79.59:4608
+CCTV央视文化精品,http://183.164.63.156:5000/rtp/238.1.79.54:4568 
+CCTV女性时尚,http://183.164.63.156:5000/rtp/238.1.79.55:4576 
+CCTV怀旧剧场,http://183.164.63.156:5000/rtp/238.1.79.61:4624 
+CCTV第一剧场,http://183.164.63.156:5000/rtp/238.1.79.63:4640 
+CCTV风云剧场,http://183.164.63.156:5000/rtp/238.1.79.62:4632 
+CCTV风云足球,http://183.164.63.156:5000/rtp/238.1.79.57:4592 
+CCTV风云音乐,http://183.164.63.156:5000/rtp/238.1.79.64:4648 
+CCTV高尔夫网球,http://183.164.63.156:5000/rtp/238.1.79.58:4600
+卫视4K频道,#genre# 
+东方卫视4K,http://183.164.63.156:5000/rtp/238.1.79.39:4428
+北京卫视4K,http://183.164.63.156:5000/rtp/238.1.79.24:4304 
+四川卫视4K,http://183.164.63.156:5000/rtp/238.1.79.51:4520
+山东卫视4K,http://183.164.63.156:5000/rtp/238.1.79.29:4344 
+广东卫视4K,http://183.164.63.156:5000/rtp/238.1.79.25:4312
+江苏卫视4K,http://183.164.63.156:5000/rtp/238.1.78.37:4088
+浙江卫视4K,http://183.164.63.156:5000/rtp/238.1.79.28:4336
+深圳卫视4K,http://183.164.63.156:5000/rtp/238.1.79.26:4320 
+湖南卫视4K,http://183.164.63.156:5000/rtp/238.1.79.38:4416 
