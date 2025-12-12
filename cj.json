@@ -2,6 +2,81 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
+  "lives": [
+    {
+      "name": "冰茶直播",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "timeout": 10,
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+	  {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "https://gongdian.top/tv/bingcha",
+      "playerType": 1
+    },
+	   {
+            "name": "冰茶1",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+        {
+      "name": "冰茶2",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+            "name": "冰茶3",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+    {
+      "name": "酒店源",
+      "type": 0,
+      "url": "https://gongdian.top/tv/guovin",
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    }
+  ],
   "sites": [
 {
   "key": "豆瓣推荐",
@@ -13,55 +88,20 @@
   "filterable": 0
 },
 {
-            "key": "天翼影视",
-            "name": "天翼影视",
-            "type": 1,
-            "api": "http://7.qqqtv.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "推荐",
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
-       {
-            "key": "面包影视",
-            "name": "面包影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"
-        },
-        {
-            "key": "永乐影视",
-            "name": "永乐影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
-        },
-      {
-            "key": "猪猪影视",
-            "name": "猪猪蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.lyzccl.com/",
-                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "class=\"video-des\"&&</div>",
-                "线路标题": "data-toggle=\"tab\">&&</a>",
-                "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
-                "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
-            }
-        },
-      
-
-		{
+      "key": "面包影视",
+      "name": "面包影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MBYS.json"
+    },
+    {
+      "key": "永乐影视",
+      "name": "永乐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+    },
+    {
             "key": "雨见视频",
             "name": "雨见蓝光",
             "type": 3,
@@ -1455,6 +1495,124 @@
         "分类": "电影$1#电视剧$2#纪录片$3#动漫$4#综艺$5"
       }
     },
+        {
+            "key": "无忧影视",
+            "name": "无忧影视",
+            "type": 1,
+            "api": "https://www.wyvod.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "港剧",
+                "台剧",
+                "日剧",
+                "韩剧",
+                "欧美剧",
+                "海外剧",
+                "经典片",
+                "动画片",
+                "泰剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
+        },
+		 {
+            "key": "三八影视",
+            "name": "三八影视",
+            "type": 1,
+            "api": "https://vod38.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "港剧",
+                "台剧",
+                "日剧",
+                "韩剧",
+                "欧美剧",
+                "海外剧",
+                "邵氏电影",
+                "动画片",
+                "泰剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
+        },
+		 {
+            "key": "时代影院",
+            "name": "时代影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/时代影视.json"
+        },
+            {
+            "key": "木易影画",
+            "name": "影画无广",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/木易影画.json"
+        },
+           {
+            "key": "电影港",
+            "name": "电影港磁力",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/电影港.json"
+        },
+            {
+            "key": "五五影院",
+            "name": "五五影院",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/55影视.json"
+        },
+		 {
+            "key": "奇趣影视",
+            "name": "奇趣影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇趣影视.json"
+        },
 		{
             "key": "麦田影视",
             "name": "麦田影视",
