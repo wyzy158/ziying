@@ -1,12 +1,12 @@
 {
   "urls": [
- {
-      "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "观影视线路1"
-    },
-	{
+    {
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/cj.json",
-      "name": "观影视线路2"
+      "name": "影视线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/cj.json",
+      "name": "备用线路"
     },
 	 {
       "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/%E7%9F%AD%E5%89%A7.json",
