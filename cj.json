@@ -130,7 +130,38 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$20国产剧$13#港台剧$14#日韩剧$15#欧美剧$16空空"
 			}
 		},
-         {
+     {
+      "key": "明星",
+      "name": "明星影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "观影视专属",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://mxvod.com/"
+      }
+    },
+	 {
+      "key": "不卡",
+      "name": "不卡影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "观影视专属",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.sobods.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+    }, 
+	 {
       "key": "1817影视",
       "name": "1817影视",
       "type": 3,
@@ -1562,6 +1593,26 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
+        },
+         {
+            "key": "螃蟹影视",
+            "name": "螃蟹影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/pangxie.json"
+        },
+		 {
+            "key": "大鹅影视",
+            "name": "大鹅影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/dae.json"
         },
 		 {
             "key": "时代影院",
