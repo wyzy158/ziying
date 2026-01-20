@@ -130,7 +130,7 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$20国产剧$13#港台剧$14#日韩剧$15#欧美剧$16空空"
 			}
 		},
-     {
+         {
       "key": "明星",
       "name": "明星影视",
       "type": 3,
@@ -160,8 +160,53 @@
         "分类url": "https://www.sobods.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
       }
-    }, 
+    },
 	 {
+      "key": "麦田",
+      "name": "麦田影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "观影视专属",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.mtyy1.com/;;!"
+      }
+    },
+	 {
+      "key": "飞快",
+      "name": "飞快影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "观影视专属",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://feikuai.tv/;;!"
+      }
+    },
+	 {
+      "key": "快快",
+      "name": "快快影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "观影视专属",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://4k4k.live/;;!"
+      }
+    },
+         {
       "key": "1817影视",
       "name": "1817影视",
       "type": 3,
@@ -1594,7 +1639,90 @@
                 "欧美动漫"
             ]
         },
-         {
+          {
+            "key": "布卡",
+            "name": "布卡影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "副标题": "观影视专属",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://m.ycblcw.com/;;!H"
+            }
+        },
+		 {
+            "key": "韩剧看看",
+            "name": "韩剧影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/HJKK.json"
+        },
+        {
+            "key": "小镇影视",
+            "name": "小镇影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XZYS.json"
+        },
+		 {
+            "key": "雪花",
+            "name": "雪花磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/XH.json"
+        },
+          {
+            "key": "毒舌影视",
+            "name": "毒舌APP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/毒舌影视.json"
+        },
+		 {
+      "key": "蚂蚁影院",
+      "name": "蚂蚁影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/蚂蚁影视.json"
+    }, 
+ {
+            "key": "点播影视",
+            "name": "点播影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/点播影视.json"
+        }, 
+        
+		{
+            "key": "篇吧影视",
+            "name": "篇吧影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/篇吧影视.json"
+        }, 		
+        {
             "key": "螃蟹影视",
             "name": "螃蟹影视",
             "type": 3,
