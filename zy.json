@@ -1,11 +1,11 @@
 {
   "urls": [
    {
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/cj.json",
+      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/cj.json",
       "name": "观影视线路"
     },
     {
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/4k.txt",
+      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/4k.txt",
       "name": "观影视4K"
     }
 
