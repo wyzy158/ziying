@@ -1,25 +1,14 @@
 {
   "urls": [
-    {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/cj.json",
-      "name": "影视线路"
-    },
-    {
+   {
       "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/cj.json",
-      "name": "备选线路"
-    },
-	 {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/%E7%9F%AD%E5%89%A7.json",
-      "name": "短剧线路"
+      "name": "观影视线路"
     },
     {
-      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/wd.json",
-      "name": "少儿频道"
-    },
-    {
-      "url": "https://gitee.com/kaixinkaire/gysjk/raw/master/dmtd.json",
-      "name": "动漫频道"
+      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/4k.txt",
+      "name": "观影视4K"
     }
+
      
   ]
 }
