@@ -1583,7 +1583,17 @@
                 "分类url": "https://m.ycblcw.com/;;!H"
             }
         },
-		 {
+           {
+            "key": "云播视频",
+            "name": "云播视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/云播视频.json"
+        },
+		{
             "key": "韩剧看看",
             "name": "韩剧影视",
             "type": 3,
