@@ -1,6 +1,5 @@
 {
-  "notice": "微信号┃冷锋 .接口定期维护",
-  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+ "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "sites": [
     {
@@ -1353,21 +1352,7 @@
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
       },
       "timeout": 20
-    },
-    {
-      "key": "push_agent",
-      "name": "手机┃推送",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Push",
-        "danmu": true
-      },
-      "timeout": 25
-    }
+    }  
   ],
   "parses": [
     {
