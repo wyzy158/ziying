@@ -1534,40 +1534,6 @@
         "分类": "电影$1#电视剧$2#纪录片$3#动漫$4#综艺$5"
       }
     },
-        {
-            "key": "无忧影视",
-            "name": "无忧影视",
-            "type": 1,
-            "api": "https://www.wyvod.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "港剧",
-                "台剧",
-                "日剧",
-                "韩剧",
-                "欧美剧",
-                "海外剧",
-                "经典片",
-                "动画片",
-                "泰剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫"
-            ]
-        },
 		{
             "key": "布卡",
             "name": "布卡影视",
@@ -1583,6 +1549,240 @@
                 "分类url": "https://m.ycblcw.com/;;!H"
             }
         },
+	    {
+      "key": "zz",
+      "name": "️子子影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/子子.json"
+    },
+    {
+      "key": "csp_xBPQ_飞飞",
+      "name": "️飞飞影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/飞飞影视.json"
+    },
+	 {
+      "key": "农民",
+      "name": "旺旺影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/农民影视.json"
+    },
+    {
+      "key": "cz",
+      "name": "️厂长影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/厂长.json"
+    },
+	    {
+      "key": "csp_mahua",
+      "name": "️麻花影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/麻花哥.json"
+    },
+    {
+      "key": "qimaoys",
+      "name": "️七猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/七猫影视.json"
+    },
+    {
+      "key": "ddtys",
+      "name": "️耐看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/nk1.json"
+    },
+    {
+      "key": "米爱",
+      "name": "️茶狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/茶狐杯.json"
+    },
+	    {
+      "key": "htys12",
+      "name": "海兔影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/555.json"
+    },
+    {
+      "key": "TVByunbo",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/云播.json"
+    },
+    {
+      "key": "zranys",
+      "name": "孜然影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/81影院.json"
+    },
+    {
+      "key": "slys",
+      "name": "森林影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/bp.json"
+    },
+    {
+      "key": "nmys123",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/libs/nmys.json"
+    },
+    {
+      "key": "伪freeok",
+      "name": "freeok",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "data-dropdown-value=\"&&\"+【  +共+<small>&&</small>+集】",
+        "分类url": "https://www.jsard.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类数组": "<li class=\"swiper-slide navbar-item&&</li>",
+        "分类标题": "title=\"&&\"",
+        "分类ID": "href=\"/vodtype/&&.html\""
+      }
+    },
+    {
+      "key": "zhuijuys",
+      "name": "追剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/追剧影视.json"
+    },
+    {
+      "key": "星辰1影视",
+      "name": "星辰影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/星辰影视1.json"
+    },
+    {
+      "key": "csp_xBPQ_番茄",
+      "name": "️番茄影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/番茄影院.json"
+    },
+    {
+      "key": "fan影视",
+      "name": "番茄影视网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/番茄影视网.json"
+    },
+    {
+      "key": "蜂鸟影视",
+      "name": "蜂鸟影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/hema.json"
+    },
+    {
+      "key": "如意1",
+      "name": "️如意影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/aikanyy.json"
+    },
+    {
+      "key": "如意",
+      "name": "️如意影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/如意影院.json"
+    },
+    {
+      "key": "蜂鸟",
+      "name": "️洋葱影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/洋葱影视.json"
+    },
+    {
+      "key": "xhhh",
+      "name": "️火火影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/3.15",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/shuo.json"
+    },
+	    {
+      "key": "乾坤",
+      "name": "乾坤影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/bplm.json"
+    },
            {
             "key": "云播视频",
             "name": "云播视频",
@@ -2527,38 +2727,6 @@
         "反转爽剧"
       ]
     },
-		{
-            "key": "快看采集",
-            "name": "快看采集",
-            "searchable": 1,
-            "type": 1,
-            "playerType": 2,
-            "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
-            "playurl": "https://kkzyplayer.com/player/?url=",
-            "categories": [
-                "热门短剧",
-                "国产剧",
-                "韩国剧",
-                "港台剧",
-                "欧美剧",
-                "国产综艺",
-                "国产动漫",
-                "日本动漫",
-                "网络电影",
-                "动画电影",
-                "动作片",
-                "冒险片",
-                "喜剧片",
-                "爱情片",
-                "奇幻片",
-                "灾难片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "港台综艺"
-            ]
-        },
         {
             "key": "最大资源",
             "name": "最大采集",
@@ -2635,11 +2803,9 @@
             ]
         },
     {"key": "火狐","name": "火狐云","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
-    {"key": "四个圈","name": "四个圈云","type": 1,"api": "https://pg.fenwe078.cf/api.php/provide/vod/?ac=list"},
     {"key": "光速","name": "光速云","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"style": {"type": "rect","ratio": 0.8},"quickSearch": 1},
     {"key": "百度","name": "百度云","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["大陆剧","战争片","动作片","喜剧片"]},
     {"key": "卧龙","name": "️卧龙云","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/","playUrl": "https://yun.ckmov.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","电影解说","足球","篮球","国产剧","综艺","影片库","动漫"]},
-    {"key": "淘片","name": "淘片云","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"quickSearch": 1},
     {"key": "金鹰","name": "金鹰云","type": 1,"api": "https://jyzyapi.com/provide/vod/","searchable": 1,"quickSearch": 1},
     {"key": "速播","name": "速播云","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "https://subojiexi.com/play/?url=","searchable": 1,"quickSearch": 1},
     {"key": "非凡","name": "️非凡云","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","直播","短片","国产剧","综艺","影片库","动漫"]},
