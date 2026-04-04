@@ -50,7 +50,7 @@
       "name": "观影视┃蓝光",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a",
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
@@ -465,15 +465,6 @@
       "ext": "http://150.158.112.123/jar/tx.js"
     },
     {
-      "key": "csp_XBPQ",
-      "name": "小米┃4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "timeout": 12,
-      "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-      "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-    },
-    {
       "key": "爱影视",
       "name": "盈盈┃4K",
       "type": 3,
@@ -482,28 +473,25 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
-      "key": "顾我",
-      "name": "顾顾┃4K",
+      "key": "幕启星河",
+      "name": "幕幕┃4K",
       "type": 3,
       "api": "csp_AppGet",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
-      "key": "段友",
-      "name": "段友┃4K",
+      "key": "星河",
+      "name": "星河┃4K",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://shangjihuoke.com|8E2DC386FD452D05",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+      "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
       "key": "仓鼠APP",
@@ -512,7 +500,7 @@
       "timeout": 15,
       "api": "csp_AppGet",
       "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
       "key": "3QQQ",
@@ -520,7 +508,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+       "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
       "key": "巧技2",
