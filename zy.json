@@ -1,3 +1,6 @@
+
+
+
 {
   "urls": [
    {
@@ -15,6 +18,10 @@
 	 {
       "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/4k.txt",
       "name": "观影视备用4K"
+    },
+	{
+      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/shaoer.json",
+      "name": "观影视少儿线路"
     },
 	{
       "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/config.json",
