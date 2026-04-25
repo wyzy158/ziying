@@ -1,31 +1,14 @@
 
 
-
 {
-  "urls": [
+  “网址” ： [
    {
-      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/cj.json",
+      "url" :  "https://codeberg.org/fengxiangze123/gys/raw/branch/main/cj.json" ,
       "name": "观影视线路"
-    },
-	{
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/cj.json",
-      "name": "观影视备用线路"
-    },
+    } ,
     {
-      "url": "https://codeberg.org/fengxiangze123/gys/raw/branch/main/4k.txt",
+      "url" :  "https://codeberg.org/fengxiangze123/gys/raw/branch/main/4k.txt" ,
       "name": "观影视4K"
-    },
-	 {
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/4k.txt",
-      "name": "观影视备用4K"
-    },
-	{
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/shaoer.json",
-      "name": "观影视少儿线路"
-    },
-	{
-      "url": "https://raw.githubusercontent.com/wyzy158/ziyingck/refs/heads/master/config.json",
-      "name": "观影视综合线路"
-    }
+    } 
   ]
 }
