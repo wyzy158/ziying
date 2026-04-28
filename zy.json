@@ -7,6 +7,10 @@
     {
       "url" :  "https://codeberg.org/fengxiangze123/gys/raw/branch/main/4k.txt" ,
       "name": "观影视4K"
+    }, 
+      {
+      "url" :  "https://raw.githubusercontent.com/wyzy158/gys/refs/heads/main/fl.txt" ,
+      "name": "观影视乐播"
     } 
   ]
 }
