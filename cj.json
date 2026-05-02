@@ -53,35 +53,20 @@
   "quickSearch": 0,
   "filterable": 0
 },
-{
-      "key": "面包影视",
-      "name": "面包影视",
+
+	{
+      "key": "AAZ音乐",
+      "name": "AAZ音乐",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MBYS.json"
+      "ext": {
+        "主页url": "https://www.aaz.cx/",
+        "分类": "排行$list/djwuqu#歌单$playtype/index#歌手$singerlist/index/index/index/index#MV$mvlist/index#",
+        "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
+        "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"
+      }
     },
-    {
-      "key": "永乐影视",
-      "name": "永乐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
-    },
-    {
-            "key": "雨见视频",
-            "name": "雨见蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片类型": "类型：&&</li>",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-                "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
-            }
-        },
+  
 			{
 			"key": "appmovie",
 			"name": "APP影院",
@@ -1783,6 +1768,106 @@
       "filterable": 1,
       "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/bplm.json"
     },
+	 {
+            "key": "海纳",
+            "name": "海纳影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/海纳影视.json"
+        },
+        {
+            "key": "咳咳",
+            "name": "可可影视",
+            "type": 3,
+             "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/可可影视.json"
+        },
+        {
+            "key": "面包",
+            "name": "面包影视",
+            "type": 3,
+             "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/面包影视.json"
+        },
+        {
+            "key": "七点",
+            "name": "七点影视",
+            "type": 3,
+             "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/七点影视.json"
+        },
+        {
+            "key": "三九",
+            "name": "三九影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/三九影视.json"
+        },
+        {
+            "key": "三四",
+            "name": "三四影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/三四影视.json"
+        },
+        {
+            "key": "骚火",
+            "name": "骚火影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/骚火影视.json"
+        },
+        {
+            "key": "雪糕",
+            "name": "雪糕影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/雪糕影视.json"
+        },
+        {
+            "key": "樱花",
+            "name": "樱花影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/樱花影视.json"
+        },
+        {
+            "key": "永乐",
+            "name": "永乐影视",
+            "type": 3,
+           "api": "csp_XBPQ",
+			"searchable": 1,
+            "quickSearch": 1, 
+            "filterable": 1,
+            "ext": "./json/永乐影视.json"
+        },
            {
             "key": "云播视频",
             "name": "云播视频",
