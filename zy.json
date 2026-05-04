@@ -5,6 +5,10 @@
       "name": "观影视线路" 
     } ,
     {
+      "url" :  "https://raw.githubusercontent.com/wyzy158/gys/refs/heads/main/TGyinyue.json" ,
+      "name": "观影视音乐" 
+    } ,
+    {
       "url" :  "https://raw.githubusercontent.com/wyzy158/gys/refs/heads/main/fl.txt" ,
       "name": "观影视乐播"
     } 
