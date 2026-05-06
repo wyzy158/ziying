@@ -1804,6 +1804,36 @@
       "filterable": 1,
       "ext": "https://gitee.com/gyjune/xbpq/raw/main/lib/bplm.json"
     },
+	  {
+      "key": "csp_茉莉",
+      "name": "茉莉影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/moli.json"
+    },
+    {
+      "key": "csp_奇优",
+      "name": "奇优影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/奇优影院.json"
+    },
+	 {
+      "key": "csp_jbb",
+      "name": "剧白影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/剧白白.json"
+    },
 	 {
             "key": "海纳",
             "name": "海纳影视",
