@@ -1,0 +1,16 @@
+{
+   "urls": [
+  {
+      "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
+      "name": "观影视线路" 
+    } ,
+    {
+      "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/TGyinyue.json" ,
+      "name": "观影视音乐" 
+    } ,
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
+    } 
+  ]
+}
