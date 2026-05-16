@@ -1,15 +1,27 @@
 {
    "urls": [
-  {
-      "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
-      "name": "观影视线路" 
+    {  
+      "url" : "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
+      "name": "观影视线路1" 
+    } ,
+	 {
+      "url" : "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json" ,
+      "name": "观影视线路2" 
+    } ,
+	 {
+      "url" : "https://9xi4o.tk/0725.json" ,
+      "name": "观影视线路3" 
+    } ,
+	 {
+      "url" : "https://szyyds.cn/tv/x.json" ,
+      "name": "观影视4K" 
     } ,
     {
-      "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/TGyinyue.json" ,
+      "url" : "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/TGyinyue.json" ,
       "name": "观影视音乐" 
     } ,
     {
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "url" : "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "name": "观影视少儿"
     } 
   ]
