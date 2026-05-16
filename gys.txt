@@ -9,7 +9,7 @@
       "name": "观影视音乐" 
     } ,
     {
-      "url" : "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "url" : "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/wd.json" ,
       "name": "观影视少儿"
     } 
   ]
