@@ -260,17 +260,7 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/优酷.js"
         },
-        {
-            "key": "py_cctv_1",
-            "name": "🅱️央视-少儿",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./py/py_cctv_1.py"
-        },
-        {
+      {
             "key": "ysjd",
             "name": "🅱️央视┃经典",
             "type": 3,
@@ -279,18 +269,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./央视经典.json"
-        },
-        {
-            "key": "push_agent",
-            "name": "▶┃推送┃磁力",
-            "type": 3,
-            "api": "csp_Push",
-            "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./txt/token.txt"
-        }
+        } 
     ],
     "parses": [
         {
