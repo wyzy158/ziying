@@ -18,6 +18,14 @@
       "playerType": 1,
       "logo": "https://gongdian.top/tv/taibiao/{name}.png"
     },
+    {
+      "name": "观影视直播2",
+      "type": 0,
+      "url": "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 	 {
       "name": "虎牙一起看",
       "type": 0,
