@@ -9,7 +9,7 @@
       "name": "观影视音乐" 
     } ,
     {
-      "url" : "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/wd.json" ,
+      "url" : "http://www.小不点.com" ,
       "name": "观影视少儿"
     } 
   ]
