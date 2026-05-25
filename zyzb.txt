@@ -1,4 +1,4 @@
-央卫,#genre#
+央视,#genre#
 CCTV1,http://42.237.163.143:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.72.55.189:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
