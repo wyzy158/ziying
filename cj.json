@@ -3,23 +3,8 @@
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
   "lives": [
- {
-      "name": "观影视直播",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	{
+{
       "name": "观影视直播1",
-      "type": 0,
-      "url": "https://gongdian.top/tv/guovin",
-      "playerType": 1,
-      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
-    },
-    {
-      "name": "观影视直播2",
       "type": 0,
       "url": "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
       "playerType": 2,
@@ -27,12 +12,19 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "观影视直播3",
+      "name": "观影视直播2",
       "type": 0,
       "url": "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zb.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "观影视直播3",
+      "type": 0,
+      "url": "https://gongdian.top/tv/guovin",
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
     },
 	 {
       "name": "虎牙一起看",
