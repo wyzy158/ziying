@@ -5,7 +5,7 @@
       "name": "观影视自营" 
     } ,
 	{
-      "url" : "http://www.小不点.com" ,
+      "url" : "http://fty.xxooo.cf/tv" ,
       "name": "观影视综合"
     } 
   ]
