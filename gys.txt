@@ -4,9 +4,13 @@
       "url" : "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
       "name": "观影视自营" 
     } ,
+    {
+      "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/wmz.json",
+      "name":  "观影视4k" 
+    } ,
 	{
       "url" : "http://fty.xxooo.cf/tv" ,
-      "name": "观影视综合"
+      "name": "观影视饭佬"
     } 
   ]
 }
