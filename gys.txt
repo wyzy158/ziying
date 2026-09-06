@@ -8,6 +8,14 @@
       "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/wmz.json",
       "name":  "观影视4k" 
     } ,
+    {
+      "url": "http://www.英格里希嗷呜.top/tv",
+      "name": "观影视嗷呜"
+    },
+	{
+      "url": "http://www.小不点.com",
+      "name": "观影视摸鱼"
+    },
 	{
       "url" : "http://fty.xxooo.cf/tv" ,
       "name": "观影视饭佬"
