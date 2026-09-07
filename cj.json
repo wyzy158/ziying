@@ -3,15 +3,15 @@
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
     "lives": [
-        {
+      {
             "name": "咪咕直播",
             "type": 0,
-            "url": "http://124.77.202.8:49155",
+            "url": "http://124.77.202.8:49155"
         },
-		 {
+       {
             "name": "观影视直播",
             "type": 0,
-            "url": "http://127.0.0.1:5266/iptv.m3u",
+            "url": "https://raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
             "playerType": 2
         },
     
