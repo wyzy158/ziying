@@ -2,45 +2,7 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
-    "lives": [
-      {
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "http://124.77.202.8:49155"
-        },
-       {
-            "name": "观影视直播",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
-            "playerType": 2
-        },
-    
-        {
-            "name": "虎牙",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-            "ua": ""
-        },
-        {
-            "name": "斗鱼",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "ua": ""
-        },
-        {
-            "name": "YY",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "ua": ""
-        },
-        {
-            "name": "BL",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/bililive.m3u",
-            "ua": ""
-        }
-    ],
-  "sites": [
+    "sites": [
 {
   "key": "豆瓣推荐",
   "name": "观影视精选",
