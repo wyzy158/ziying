@@ -1272,10 +1272,6 @@ Vitas-smile,http://vdown.kuwo.cn:80/resource//t4/58/79/Oz2Q2Ych2I4.mp4
 第三十八集,https://c1.rrcdnbf3.com/video/xiyouji2010/第38集/index.m3u8
 第三十九集,https://c1.rrcdnbf3.com/video/xiyouji2010/第39集/index.m3u8
 第四十集,https://c1.rrcdnbf3.com/video/xiyouji2010/第40集/index.m3u8
-大侠霍元甲81版,#genre#
-陈真82版,#genre#
-霍东阁84版,#genre#
-霍东阁 第十五集,https://vip.lz-cdn8.com/20220726/19928_65126334/1000k/hls/mixed.m3u8
 再向虎山行83版,#genre#
 第01集,https://vip.lz-cdn6.com/20220726/20093_34044f24/1000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn6.com/20220726/20094_db72ee75/1000k/hls/mixed.m3u8
@@ -1343,7 +1339,6 @@ Vitas-smile,http://vdown.kuwo.cn:80/resource//t4/58/79/Oz2Q2Ych2I4.mp4
 上海滩 第23集,https://vip.ffzy-play1.com/20221101/7815_a735d6e6/index.m3u8
 上海滩 第24集,https://vip.ffzy-play1.com/20221101/7816_70421a4c/index.m3u8
 上海滩 第25集,https://vip.ffzy-play1.com/20221101/7818_fee80523/index.m3u8
-上海滩黄晓明版,#genre#
 聊斋,#genre#
 第一集,https://p.bvvvvvvv7f.com/video/liaozhaiguoyu/第01集/index.m3u8
 第二集,https://p.bvvvvvvv7f.com/video/liaozhaiguoyu/第02集/index.m3u8
@@ -1753,8 +1748,6 @@ Vitas-smile,http://vdown.kuwo.cn:80/resource//t4/58/79/Oz2Q2Ych2I4.mp4
 雪山飞狐 第38集,https://v.gsuus.com/play/wdLZL6va/index.m3u8
 雪山飞狐 第39集,https://v.gsuus.com/play/Qe1621qa/index.m3u8
 雪山飞狐 第40集,https://v.gsuus.com/play/7e576nXb/index.m3u8
-包青天,#genre#
-包青天 第92集,https://vip.lz-cdn8.com/20220718/18668_bcb5c0e5/index.m3u8
 射雕英雄传83版,#genre#
 射雕英雄传 第1集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第01集/index.m3u8
 射雕英雄传 第2集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第02集/index.m3u8
@@ -5243,7 +5236,6 @@ Vitas-smile,http://vdown.kuwo.cn:80/resource//t4/58/79/Oz2Q2Ych2I4.mp4
 第三十三集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC33%E9%9B%86/index.m3u8
 第三十四集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC34%E9%9B%86/index.m3u8
 第三十五集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC35%E9%9B%86/index.m3u8
-梅花三弄之鬼丈夫,#genre#
 梅花三弄之梅花烙,#genre#
 第一集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC02%E9%9B%86/index.m3u8
@@ -5652,8 +5644,6 @@ Vitas-smile,http://vdown.kuwo.cn:80/resource//t4/58/79/Oz2Q2Ych2I4.mp4
 月歌行 第三十八集,https://vip.lzcdn2.com/20230109/23104_5f879fbd/1800k/hls/mixed.m3u8
 月歌行 第三十九集,https://vip.lzcdn2.com/20230110/23151_6d75ac88/1800k/hls/mixed.m3u8
 月歌行 第四十集,https://vip.lzcdn2.com/20230110/23150_0377d9f2/1800k/hls/mixed.m3u8
-上错花轿嫁对郎,#genre#
-上错花轿嫁对郎 第一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5240501210180900955_hlsb.m3u8
 诛仙青云志,#genre#
 诛仙青云志 第一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205322215720998_hlsb.m3u8
 诛仙青云志 第二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221079421423892240_hlsb.m3u8
