@@ -17,6 +17,11 @@
             "name": "咪咕直播3",
             "type": 0,
             "url": "http://39.107.95.182:3000"
+        },
+		{   "name": "观影视直播",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
+            "playerType": 2
         }
     ],
 	"sites": [
