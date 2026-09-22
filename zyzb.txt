@@ -465,18 +465,6 @@ UFC前瞻与回顾 激战前夜：UFC331特辑 陈瑞阳 20:00,http://139.224.11
 西甲 毕尔巴鄂竞技VS阿拉维斯 赛场原声 22:00,http://139.224.111.181:3000/967672364
 法甲 巴黎FCVS斯特拉斯堡 邵煊 23:00,http://139.224.111.181:3000/967672210
 法甲 巴黎FCVS斯特拉斯堡 赛场原声 23:00,http://139.224.111.181:3000/967672202
-付费频道,#genre#
-CCTV怀旧剧场,http://27.9.54.23:5003/live5218.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-CCTV兵器科技,http://27.9.54.23:5003/live4321.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-CCTV风云剧场,http://27.9.54.23:5003/live5086.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-CCTV风云音乐,http://27.9.54.23:5003/live5174.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151 
-CCTV央视台球,http://61.166.174.190:5003/live1052.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
-CCTV世界地理,http://61.166.174.190:5003/live1061.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
-CCTV高尔夫网球,http://61.166.174.190:5003/live1058.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
-CHC影迷电影,http://27.9.54.23:5003/live5306.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-CHC动作电影,http://27.9.54.23:5003/live7070.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-CHC家庭影院,http://27.9.54.23:5003/live5350.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
-经典电影,http://27.9.54.23:5003/live6056.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
 电影频道,#genre#
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
@@ -765,6 +753,8 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 霸王花4,https://vip.ffzy-play7.com/20221209/9019_f843a01f/2000k/hls/mixed.m3u8
 92霸王花与霸王花,https://vip.lz-cdn3.com/20230712/20188_fbb24111/2000k/hls/mixed.m3u8
 积奇玛莉,https://vip.ffzy-play7.com/20221113/4120_ca4b6aa5/2000k/hls/mixed.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 虎牙轮播,#genre#
 新水浒传,http://live.metshop.top/huya/11342384
 神探狄仁杰第一部,http://live.metshop.top/huya/11352958
