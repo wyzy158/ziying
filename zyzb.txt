@@ -465,13 +465,18 @@ UFC前瞻与回顾 激战前夜：UFC331特辑 陈瑞阳 20:00,http://139.224.11
 西甲 毕尔巴鄂竞技VS阿拉维斯 赛场原声 22:00,http://139.224.111.181:3000/967672364
 法甲 巴黎FCVS斯特拉斯堡 邵煊 23:00,http://139.224.111.181:3000/967672210
 法甲 巴黎FCVS斯特拉斯堡 赛场原声 23:00,http://139.224.111.181:3000/967672202
-央视付费频道,#genre#
-CCTV怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+付费频道,#genre#
+CCTV怀旧剧场,http://27.9.54.23:5003/live5218.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+CCTV兵器科技,http://27.9.54.23:5003/live4321.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+CCTV风云剧场,http://27.9.54.23:5003/live5086.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+CCTV风云音乐,http://27.9.54.23:5003/live5174.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151 
+CCTV央视台球,http://61.166.174.190:5003/live1052.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
+CCTV世界地理,http://61.166.174.190:5003/live1061.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
+CCTV高尔夫网球,http://61.166.174.190:5003/live1058.m3u8?token=7375646f394b551af69bf93f7157ab4a748ba8be&z=1f4e
+CHC影迷电影,http://27.9.54.23:5003/live5306.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+CHC动作电影,http://27.9.54.23:5003/live7070.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+CHC家庭影院,http://27.9.54.23:5003/live5350.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
+经典电影,http://27.9.54.23:5003/live6056.m3u8?token=7375646f854a041399b4e5392f9304c206c5903d&z=1151
 电影频道,#genre#
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
