@@ -1,5 +1,4 @@
 电影频道,#genre#
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
