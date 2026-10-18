@@ -1787,6 +1787,46 @@
                 "分类url": "https://m.ycblcw.com/;;!H"
             }
         },
+		  {
+      "key": "网飞TV",
+      "name": "🔥网飞TV🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%BD%91%E9%A3%9ETV.json"
+    },
+    {
+      "key": "电影蜜蜂",
+      "name": "🔥电影蜜蜂🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%94%B5%E5%BD%B1%E8%9C%9C%E8%9C%82.json"
+    },
+    {
+      "key": "冷曦影视",
+      "name": "🔥冷曦影视🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "美剧窝",
+      "name": "🔥美剧窝🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/yw88075/tvbox/main/XBPQ/%E7%BE%8E%E5%89%A7%E7%AA%9D.json"
+    },
 	    {
       "key": "zz",
       "name": "️子子影视",
