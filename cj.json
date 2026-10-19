@@ -418,16 +418,6 @@
             "filterable": 1,
             "ext": "./json/篇吧影视.json"
         },
-		{ 
-          "key": "悟空影院", 
-          "name": "悟空影院", 
-          "type": 3, 
-          "api": "csp_XBPQ", 
-          "searchable": 1, 
-          "quickSearch": 1, 
-          "filterable": 1, 
-          "ext": "./json/悟空影院.json" 
-       },
 		{
             "key": "百万影视",
             "name": "百万影视",
@@ -977,58 +967,6 @@
   "分类数组":"<li>&&</li>",
   "分类标题":">&&</a>",
   "分类ID":"/t/&&.html"
-  }
-},
-{ 
-  "key": "垚森影院",
-  "name": "垚森影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "主页url": "http://www.cppinfo.com",
-    "搜索url": "/search/-------------.html?wd={wd}",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#爽文短剧$30#精品日韩$36",
-    "分类url": "/listnew/{cateId}.html",
-    "分类分页": "/listnew/{cateId}-{catePg}.html",
-    "影片类型": "类型：&&</a >",
-    "导演": "导演：&&</a >",
-    "主演": "主演：&&</a >",
-    "简介": "introduction-content\">&&</span>",
-    "线路数组": "stui-content__playlist&&</ul>",
-    "线路标题": "播放列表&&</h3>",
-    "嗅探词": ".m3u8#.mp4",
-    "播放数组": "stui-content__playlist&&</ul>",
-    "播放标题": "<a&&</a >",
-    "跳转播放链接": "/play/{vid}-{sid}-{nid}.html"
-  }
-},
-{
-  "key": "星空影院",
-  "name": "星空影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "主页url": "http://www.tjtida.org",
-    "搜索url": "/search.php?searchword={wd}",
-    "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#悬疑片$26#犯罪片$27#冒险片$37#奇幻片$38#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16#泰剧$28#海外剧$29#大陆综艺$30#日韩综艺$31#港台综艺$32#欧美综艺$33#国产动漫$34#欧美动漫$36#港台动漫$39#日韩动漫$40#综艺$3#动漫$4#视频$41",
-    "分类url": "/tjt/{cateId}.html",
-    "分类分页": "/tjt/{cateId}-{catePg}.html",
-    "影片类型": "类型：&&</a >",
-    "导演": "导演：&&</a >",
-    "主演": "主演：&&</a >",
-    "简介": "简介：&&</p >",
-    "线路数组": "stui-content__playlist&&</ul>",
-    "线路标题": "播放列表&&</h3>",
-    "嗅探词": ".m3u8#.mp4",
-    "播放数组": "stui-content__playlist&&</ul>",
-    "播放标题": "<a&&</a >",
-    "跳转播放链接": "/play/{vid}-{sid}-{nid}.html"
   }
 },
 {
