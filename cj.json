@@ -950,7 +950,7 @@
         },
 	{
       "key": "百度",
-      "name": "百度",
+      "name": "百度资源",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
