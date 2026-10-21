@@ -9,7 +9,8 @@
       "name": "自营线路" 
     }, 
     {
-       "url": "https://www.饭太硬.cc/tv",
+       "url": "https://gh-proxy.org//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/config.json
+",
        "name": "课堂动漫"
     }
     ]
