@@ -1,17 +1,17 @@
 {
    "urls": [
     {
-      "url" :  "https://raw.githubusercontent.com/wyzy158/gys/refs/heads/main/wmz.json",
+      "url" :  "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/gys/refs/heads/main/wmz.json",
       "name":  "4k线路" 
     } ,
     {  
-      "url" : "https://raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
+      "url" : "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/cj.json" ,
       "name": "自营线路" 
     }, 
     {
-       "url": "https://raw.githubusercontent.com/wyzy158/gys/refs/heads/main/config.json
-",
+       "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/gys/refs/heads/main/config.json",
        "name": "课堂动漫"
     }
-    ]
+  ]
+}
 }
