@@ -156,10 +156,6 @@ CCTV17农业农村,http://139.224.111.181:3000/673168256
 黑龙江卫视,http://106.52.119.159:1234/738906901
 黑龙江卫视,http://106.53.151.222:5080/738906901
 黑龙江卫视,http://139.224.111.181:3000/738906901
-CHC频道,#genre#
-CHC动作电影HD,http://219.149.247.60:5003/live3915.m3u8?token=7375646fa21106a1d4a244fd14131068cdee87ed&z=1f4e
-CHC家庭影院HD,http://219.149.247.60:5003/live4013.m3u8?token=7375646fa21106a1d4a244fd14131068cdee87ed&z=1f4e
-CHC影迷电影HD,http://219.149.247.60:5003/live3964.m3u8?token=7375646fa21106a1d4a244fd14131068cdee87ed&z=1f4e
 影视经典,#genre#
 哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 哪吒1魔童降世,https://play.xluuss.com/play/penWJw7a/index.m3u8
