@@ -7,10 +7,6 @@
 	{
       "url" :  "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/gys/refs/heads/main/4k.json",
       "name":  "4k线路" 
-    } ,
-    {
-       "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/gys/refs/heads/main/config.json",
-       "name": "课堂动漫"
-    }
+    } 
   ]
 }
