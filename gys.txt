@@ -5,7 +5,7 @@
       "name": "自营线路" 
     }, 
 	{
-      "url" :  "https://9763.kstore.vip/aowu.json",
+      "url" :  "http://www.y456y.com",
       "name":  "4k线路" 
     } ,
     {
