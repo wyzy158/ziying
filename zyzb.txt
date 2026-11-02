@@ -65,6 +65,16 @@ CCTV17农业农村,http://106.52.119.159:1234/673168256
 CCTV17农业农村,http://59.172.50.58:7788//673168256
 CCTV17农业农村,http://175.24.134.198:1234/673168256
 CCTV17农业农村,http://139.224.111.181:3000/673168256
+央视付费频道,#genre#
+CCTV世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+CCTV风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
+CCTV风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+CCTV风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
+CCTV第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+CCTV女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
+CCTV央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
+CCTV央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 卫视,#genre#
 三沙卫视,http://106.52.119.159:1234/961023778
 三沙卫视,http://59.172.50.58:7788//961023778
