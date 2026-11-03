@@ -25,10 +25,10 @@ jobs:
         run: dir "${{ github.workspace }}"
 
       - name: Build exe with PyInstaller
-        run: pyinstaller --noconfirm --onefile --windowed --distpath "${{ github.workspace }}\dist" --workpath "${{ github.workspace }}\build" --specpath "${{ github.workspace }}" "${{ github.workspace }}\tvbox_gui.py"
+        run: pyinstaller --noconfirm --onefile --windowed --distpath "${{ github.workspace }}/dist" --workpath "${{ github.workspace }}/build" --specpath "${{ github.workspace }}" "${{ github.workspace }}/tvbox_gui.py"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: tvbox_gui-exe
-          path: "${{ github.workspace }}\dist\tvbox_gui.exe"
+          path: "${{ github.workspace }}/dist/tvbox_gui.exe"
