@@ -2,7 +2,7 @@
   "spider": "./cj.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
   "wallpaper": "./bizhi.php",
   "warningText": "观影视提醒您,资源来自互联网，请不要相信视频中的任何广告，以免上当受骗。如若不听，后果自负",
-  "lives": [
+ "lives": [
 	   {
           "name": "咪咕直播",
           "type": 0,
@@ -11,11 +11,17 @@
 	    {    
 		    "name": "观影视直播",
             "type": 0,
+            "url": "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/zb/refs/heads/main/back/ipv4.txt",
+            "playerType": 2
+        }
+	    {    
+		    "name": "观影视直播1",
+            "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
             "playerType": 2
         }
     ],
-	"sites": [
+"sites": [
 {
   "key": "豆瓣推荐",
   "name": "观影视精选",
