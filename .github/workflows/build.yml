@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python 3.11
         uses: actions/setup-python@v5
@@ -25,10 +27,12 @@ jobs:
         run: dir "${{ github.workspace }}"
 
       - name: Build exe with PyInstaller
-        run: pyinstaller --noconfirm --onefile --windowed --distpath "${{ github.workspace }}/dist" --workpath "${{ github.workspace }}/build" --specpath "${{ github.workspace }}" "${{ github.workspace }}/tvbox_gui.py"
+        run: |
+          cd "${{ github.workspace }}"
+          pyinstaller --noconfirm --onefile --windowed tvbox_gui.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: tvbox_gui-exe
-          path: "${{ github.workspace }}/dist/tvbox_gui.exe"
+          path: dist/tvbox_gui.exe
