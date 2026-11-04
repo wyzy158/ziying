@@ -89,8 +89,9 @@ CCTV女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 CCTV央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 CCTV央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 CHC频道,#genre#
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://k.061899.xyz/k.php?id=jtyy
 CHC影迷电影,http://129.204.241.23:1234/952383261
