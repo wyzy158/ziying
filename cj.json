@@ -8,14 +8,8 @@
           "type": 0,
           "url": "http://www.52top.com.cn:678/downloads/migu.txt"
        },
-	    {    
+	   {    
 		    "name": "观影视直播",
-            "type": 0,
-            "url": "https://gh-proxy.com//raw.githubusercontent.com/wyzy158/zb/refs/heads/main/back/ipv4.txt",
-            "playerType": 2
-        },
-	    {    
-		    "name": "观影视直播1",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/wyzy158/ziying/refs/heads/main/zyzb.txt",
             "playerType": 2
